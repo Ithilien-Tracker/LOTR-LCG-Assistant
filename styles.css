@@ -1,0 +1,27 @@
+﻿.justify-evenly {
+    justify-content: space-evenly;
+}
+
+.items-center {
+    align-items: center;
+}
+
+.w-full {
+    width: 100%;
+}
+
+.h-full {
+    width: 100%;
+}
+
+.flex {
+    display: flex;
+}
+
+.z-0 {
+    z-index: 0;
+}
+
+.test {
+    background-color: red;
+}
