@@ -1,4 +1,4 @@
-﻿export default class Card {
+﻿class Card {
     constructor(id, title, sphere, traits, ranged, sentinel, doomed, secrecy, valour, cycle, setName, setNumber) {
         this.id = id;
         this.title = title;

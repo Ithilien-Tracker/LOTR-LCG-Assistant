@@ -1,6 +1,4 @@
-﻿import Card from "./Card.js";
-
-export default class HeroCard extends Card {
+﻿class HeroCard extends Card {
     type = "Hero";
     constructor(id, title, sphere, threat, influence, attack, defense, hitpoints, traits, ranged, sentinel, doomed, secrecy, valour, cycle, setName, setNumber) {
         super(id, title, sphere, traits, ranged, sentinel, doomed, secrecy, valour, cycle, setName, setNumber);
