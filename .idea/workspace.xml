@@ -4,21 +4,29 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0bcfa31c-e96e-47a4-a395-6d968dd98fc8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/scripts/classes/CardPool.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scripts/classes/Fellowship.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scripts/classes/Player.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+    <list default="true" id="0bcfa31c-e96e-47a4-a395-6d968dd98fc8" name="Changes" comment="private fields &amp; getter methods">
+      <change afterPath="$PROJECT_DIR$/data/card_data.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/old/Link.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/old/LinkCollection.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/old/Player.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/old/links.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/Card.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/CardCatalog.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/LOTR LCG Assistant.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/LOTR LCG Assistant.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/dictionaries/project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dictionaries/project.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/cards.js" beforeDir="false" afterPath="$PROJECT_DIR$/old/cards.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scripts/classes/AllyCard.js" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/classes/AllyCard.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scripts/classes/AttachmentCard.js" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/classes/AttachmentCard.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scripts/classes/Card.js" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/classes/Card.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scripts/classes/DeckCard.js" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/classes/DeckCard.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scripts/classes/EventCard.js" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/classes/EventCard.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scripts/classes/HeroCard.js" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/classes/HeroCard.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scripts/classes/SidequestCard.js" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/classes/SidequestCard.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/classes/AllyCard.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/classes/AttachmentCard.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/classes/Card.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/classes/CardPool.js" beforeDir="false" afterPath="$PROJECT_DIR$/old/CardPool.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/classes/DeckCard.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/classes/EventCard.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/classes/Fellowship.js" beforeDir="false" afterPath="$PROJECT_DIR$/old/Fellowship.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/classes/HeroCard.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/classes/Player.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/classes/SidequestCard.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/scripts/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/main.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -48,11 +56,18 @@
     &quot;accountId&quot;: &quot;d57d2868-51db-4bf0-aa06-dfab181c1493&quot;
   }
 }</component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;customColor&quot;: &quot;&quot;,
   &quot;associatedIndex&quot;: 7
 }</component>
   <component name="ProjectId" id="3957jLXvIcFwXF6DNl52PVo9pZv" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -61,11 +76,17 @@
   &quot;keyToString&quot;: {
     &quot;JavaScript Debug.index.html.executor&quot;: &quot;Run&quot;,
     &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.MCP Project settings loaded&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
     &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;javascript.preferred.runtime.type.id&quot;: &quot;node&quot;,
     &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/dev/projects/LOTR-LCG-Assistant&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -77,6 +98,15 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\dev\projects\LOTR-LCG-Assistant\old" />
+      <recent name="C:\dev\projects\LOTR-LCG-Assistant" />
+      <recent name="C:\dev\projects\LOTR-LCG-Assistant\scripts\old" />
+      <recent name="C:\dev\projects\LOTR-LCG-Assistant\data" />
+      <recent name="C:\dev\projects\LOTR-LCG-Assistant\assets" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="index.html" type="JavascriptDebugType" nameIsGenerated="true" uri="http://localhost:63342/LOTR LCG Assistant/index.html" useBuiltInWebServerPort="true">
       <method v="2" />
@@ -85,7 +115,7 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-d6986cc7102b-a71380e98a7c-JavaScript-WS-252.28539.21" />
+        <option value="bundled-js-predefined-d6986cc7102b-3bd3a6803838-JavaScript-WS-261.22158.274" />
       </set>
     </attachedChunks>
   </component>
@@ -98,11 +128,54 @@
       <updated>1769974211715</updated>
       <workItem from="1769974213118" duration="649000" />
       <workItem from="1769974876570" duration="7940000" />
-      <workItem from="1770058798789" duration="1768000" />
+      <workItem from="1770058798789" duration="4309000" />
+      <workItem from="1770157458490" duration="28000" />
+      <workItem from="1770165762247" duration="1046000" />
+      <workItem from="1770604368217" duration="4223000" />
+      <workItem from="1770830405155" duration="864000" />
+      <workItem from="1770962074751" duration="1480000" />
+      <workItem from="1771385501732" duration="12012000" />
+      <workItem from="1772832106878" duration="2897000" />
+      <workItem from="1773462099529" duration="1199000" />
+      <workItem from="1776893143190" duration="187000" />
+      <workItem from="1776966097585" duration="6202000" />
+      <workItem from="1776993025527" duration="4708000" />
     </task>
+    <task id="LOCAL-00001" summary="private fields &amp; getter methods">
+      <option name="closed" value="true" />
+      <created>1770067448476</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1770067448476</updated>
+    </task>
+    <task id="LOCAL-00002" summary="private fields &amp; getter methods">
+      <option name="closed" value="true" />
+      <created>1770067459577</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1770067459577</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="private fields &amp; getter methods" />
+    <option name="LAST_COMMIT_MESSAGE" value="private fields &amp; getter methods" />
   </component>
 </project>

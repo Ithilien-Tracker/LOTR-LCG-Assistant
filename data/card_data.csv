@@ -1,0 +1,682 @@
+id,card_title,card_type,is_unique,sphere,threat,cost,willpower,attack,defense,hitpoints,traits,keywords,cycle_name,set_name,set_number,quantity_owned,related_card_ids,img_id,card_url,img_url
+1,Aragorn,Hero,TRUE,Leadership,12,,2,3,2,5,Dúnedain. Noble. Ranger.,Sentinel.,Core Set,Core Set,1,1,,01001,https://www.ringsdb.com/card/01001,https://www.ringsdb.com/bundles/cards/01001.png
+2,Théodred,Hero,TRUE,Leadership,8,,1,2,1,4,Noble. Rohan. Warrior.,,Core Set,Core Set,2,1,,01002,https://www.ringsdb.com/card/01002,https://www.ringsdb.com/bundles/cards/01002.png
+3,Glóin,Hero,TRUE,Leadership,9,,2,2,1,4,Dwarf. Noble.,,Core Set,Core Set,3,1,,01003,https://www.ringsdb.com/card/01003,https://www.ringsdb.com/bundles/cards/01003.png
+4,Gimli,Hero,TRUE,Tactics,11,,2,2,2,5,Dwarf. Noble. Warrior.,,Core Set,Core Set,4,1,,01004,https://www.ringsdb.com/card/01004,https://www.ringsdb.com/bundles/cards/01004.png
+5,Legolas,Hero,TRUE,Tactics,9,,1,3,1,4,Noble. Silvan. Warrior.,Ranged.,Core Set,Core Set,5,1,,01005,https://www.ringsdb.com/card/01005,https://www.ringsdb.com/bundles/cards/01005.png
+6,Thalin,Hero,TRUE,Tactics,9,,1,2,2,4,Dwarf. Warrior.,,Core Set,Core Set,6,1,,01006,https://www.ringsdb.com/card/01006,https://www.ringsdb.com/bundles/cards/01006.png
+7,Éowyn,Hero,TRUE,Spirit,9,,4,1,1,3,Noble. Rohan.,,Core Set,Core Set,7,1,,01007,https://www.ringsdb.com/card/01007,https://www.ringsdb.com/bundles/cards/01007.png
+8,Eleanor,Hero,TRUE,Spirit,7,,1,1,2,3,Gondor. Noble.,,Core Set,Core Set,8,1,,01008,https://www.ringsdb.com/card/01008,https://www.ringsdb.com/bundles/cards/01008.png
+9,Dúnhere,Hero,TRUE,Spirit,8,,1,2,1,4,Rohan. Warrior.,,Core Set,Core Set,9,1,,01009,https://www.ringsdb.com/card/01009,https://www.ringsdb.com/bundles/cards/01009.png
+10,Denethor,Hero,TRUE,Lore,8,,1,1,3,3,Gondor. Noble. Steward.,,Core Set,Core Set,10,1,,01010,https://www.ringsdb.com/card/01010,https://www.ringsdb.com/bundles/cards/01010.png
+11,Glorfindel,Hero,TRUE,Lore,12,,3,3,1,5,Noble. Noldor. Warrior.,,Core Set,Core Set,11,1,,01011,https://www.ringsdb.com/card/01011,https://www.ringsdb.com/bundles/cards/01011.png
+12,Beravor,Hero,TRUE,Lore,10,,2,2,2,4,Dúnedain. Ranger.,,Core Set,Core Set,12,1,,01012,https://www.ringsdb.com/card/01012,https://www.ringsdb.com/bundles/cards/01012.png
+13,Guard of the Citadel,Ally,FALSE,Leadership,,2,1,1,0,2,Gondor. Warrior.,,Core Set,Core Set,13,3,,01013,https://www.ringsdb.com/card/01013,https://www.ringsdb.com/bundles/cards/01013.png
+14,Faramir,Ally,TRUE,Leadership,,4,2,1,2,3,Gondor. Noble. Ranger.,,Core Set,Core Set,14,3,,01014,https://www.ringsdb.com/card/01014,https://www.ringsdb.com/bundles/cards/01014.png
+15,Son of Arnor,Ally,FALSE,Leadership,,3,0,2,0,2,Dúnedain.,,Core Set,Core Set,15,3,,01015,https://www.ringsdb.com/card/01015,https://www.ringsdb.com/bundles/cards/01015.png
+16,Snowbourn Scout,Ally,FALSE,Leadership,,1,0,0,1,1,Rohan. Scout.,,Core Set,Core Set,16,3,,01016,https://www.ringsdb.com/card/01016,https://www.ringsdb.com/bundles/cards/01016.png
+17,Silverlode Archer,Ally,FALSE,Leadership,,3,1,2,0,1,Archer. Silvan.,Ranged.,Core Set,Core Set,17,3,,01017,https://www.ringsdb.com/card/01017,https://www.ringsdb.com/bundles/cards/01017.png
+18,Longbeard Orc Slayer,Ally,FALSE,Leadership,,4,0,2,1,3,Dwarf. Warrior.,,Core Set,Core Set,18,3,,01018,https://www.ringsdb.com/card/01018,https://www.ringsdb.com/bundles/cards/01018.png
+19,Brok Ironfist,Ally,TRUE,Leadership,,6,2,2,1,4,Dwarf. Warrior.,,Core Set,Core Set,19,3,,01019,https://www.ringsdb.com/card/01019,https://www.ringsdb.com/bundles/cards/01019.png
+20,Ever Vigilant,Event,FALSE,Leadership,,1,,,,,,,Core Set,Core Set,20,3,,01020,https://www.ringsdb.com/card/01020,https://www.ringsdb.com/bundles/cards/01020.png
+21,Common Cause,Event,FALSE,Leadership,,0,,,,,,,Core Set,Core Set,21,3,,01021,https://www.ringsdb.com/card/01021,https://www.ringsdb.com/bundles/cards/01021.png
+22,For Gondor!,Event,FALSE,Leadership,,2,,,,,,,Core Set,Core Set,22,3,,01022,https://www.ringsdb.com/card/01022,https://www.ringsdb.com/bundles/cards/01022.png
+23,Sneak Attack,Event,FALSE,Leadership,,1,,,,,,,Core Set,Core Set,23,3,,01023,https://www.ringsdb.com/card/01023,https://www.ringsdb.com/bundles/cards/01023.png
+24,Valiant Sacrifice,Event,FALSE,Leadership,,1,,,,,,,Core Set,Core Set,24,3,,01024,https://www.ringsdb.com/card/01024,https://www.ringsdb.com/bundles/cards/01024.png
+25,Grim Resolve,Event,FALSE,Leadership,,5,,,,,,,Core Set,Core Set,25,3,,01025,https://www.ringsdb.com/card/01025,https://www.ringsdb.com/bundles/cards/01025.png
+26,Steward of Gondor,Attachment,TRUE,Leadership,,2,,,,,Gondor. Title.,,Core Set,Core Set,26,3,,01026,https://www.ringsdb.com/card/01026,https://www.ringsdb.com/bundles/cards/01026.png
+27,Celebrían's Stone,Attachment,TRUE,Leadership,,2,,,,,Artifact. Item.,Restricted.,Core Set,Core Set,27,3,,01027,https://www.ringsdb.com/card/01027,https://www.ringsdb.com/bundles/cards/01027.png
+28,Veteran Axehand,Ally,FALSE,Tactics,,2,0,2,1,2,Dwarf. Warrior.,,Core Set,Core Set,28,3,,01028,https://www.ringsdb.com/card/01028,https://www.ringsdb.com/bundles/cards/01028.png
+29,Gondorian Spearman,Ally,FALSE,Tactics,,2,0,1,1,1,Gondor. Warrior.,Sentinel.,Core Set,Core Set,29,3,,01029,https://www.ringsdb.com/card/01029,https://www.ringsdb.com/bundles/cards/01029.png
+30,Horseback Archer,Ally,FALSE,Tactics,,3,0,2,1,2,Rohan. Archer.,Ranged.,Core Set,Core Set,30,3,,01030,https://www.ringsdb.com/card/01030,https://www.ringsdb.com/bundles/cards/01030.png
+31,Beorn,Ally,TRUE,Tactics,,6,1,3,3,6,Beorning. Warrior.,,Core Set,Core Set,31,3,,01031,https://www.ringsdb.com/card/01031,https://www.ringsdb.com/bundles/cards/01031.png
+32,Blade Mastery,Event,FALSE,Tactics,,1,,,,,,,Core Set,Core Set,32,3,,01032,https://www.ringsdb.com/card/01032,https://www.ringsdb.com/bundles/cards/01032.png
+33,Rain of Arrows,Event,FALSE,Tactics,,1,,,,,,Ranged.,Core Set,Core Set,33,3,,01033,https://www.ringsdb.com/card/01033,https://www.ringsdb.com/bundles/cards/01033.png
+34,Feint,Event,FALSE,Tactics,,1,,,,,,,Core Set,Core Set,34,3,,01034,https://www.ringsdb.com/card/01034,https://www.ringsdb.com/bundles/cards/01034.png
+35,Quick Strike,Event,FALSE,Tactics,,1,,,,,,,Core Set,Core Set,35,3,,01035,https://www.ringsdb.com/card/01035,https://www.ringsdb.com/bundles/cards/01035.png
+36,Thicket of Spears,Event,FALSE,Tactics,,3,,,,,,,Core Set,Core Set,36,3,,01036,https://www.ringsdb.com/card/01036,https://www.ringsdb.com/bundles/cards/01036.png
+37,Swift Strike,Event,FALSE,Tactics,,2,,,,,,,Core Set,Core Set,37,3,,01037,https://www.ringsdb.com/card/01037,https://www.ringsdb.com/bundles/cards/01037.png
+38,Stand Together,Event,FALSE,Tactics,,0,,,,,,,Core Set,Core Set,38,3,,01038,https://www.ringsdb.com/card/01038,https://www.ringsdb.com/bundles/cards/01038.png
+39,Blade of Gondolin,Attachment,FALSE,Tactics,,1,,,,,Item. Weapon.,Restricted.,Core Set,Core Set,39,3,,01039,https://www.ringsdb.com/card/01039,https://www.ringsdb.com/bundles/cards/01039.png
+40,Citadel Plate,Attachment,FALSE,Tactics,,4,,,,,Item. Armor.,Restricted.,Core Set,Core Set,40,3,,01040,https://www.ringsdb.com/card/01040,https://www.ringsdb.com/bundles/cards/01040.png
+41,Dwarven Axe,Attachment,FALSE,Tactics,,2,,,,,Item. Weapon.,Restricted.,Core Set,Core Set,41,3,,01041,https://www.ringsdb.com/card/01041,https://www.ringsdb.com/bundles/cards/01041.png
+42,Horn of Gondor,Attachment,TRUE,Tactics,,1,,,,,Item. Artifact.,Restricted.,Core Set,Core Set,42,3,,01042,https://www.ringsdb.com/card/01042,https://www.ringsdb.com/bundles/cards/01042.png
+43,Wandering Took,Ally,FALSE,Spirit,,2,1,1,1,2,Hobbit.,,Core Set,Core Set,43,3,,01043,https://www.ringsdb.com/card/01043,https://www.ringsdb.com/bundles/cards/01043.png
+44,Lórien Guide,Ally,FALSE,Spirit,,3,1,1,0,2,Silvan. Scout.,,Core Set,Core Set,44,3,,01044,https://www.ringsdb.com/card/01044,https://www.ringsdb.com/bundles/cards/01044.png
+45,Northern Tracker,Ally,FALSE,Spirit,,4,1,2,2,3,Dúnedain. Ranger.,,Core Set,Core Set,45,3,,01045,https://www.ringsdb.com/card/01045,https://www.ringsdb.com/bundles/cards/01045.png
+46,The Galadhrim's Greeting,Event,FALSE,Spirit,,3,,,,,,,Core Set,Core Set,46,3,,01046,https://www.ringsdb.com/card/01046,https://www.ringsdb.com/bundles/cards/01046.png
+47,Strength of Will,Event,FALSE,Spirit,,0,,,,,,,Core Set,Core Set,47,3,,01047,https://www.ringsdb.com/card/01047,https://www.ringsdb.com/bundles/cards/01047.png
+48,Hasty Stroke,Event,FALSE,Spirit,,1,,,,,,,Core Set,Core Set,48,3,,01048,https://www.ringsdb.com/card/01048,https://www.ringsdb.com/bundles/cards/01048.png
+49,Will of the West,Event,FALSE,Spirit,,1,,,,,,,Core Set,Core Set,49,3,,01049,https://www.ringsdb.com/card/01049,https://www.ringsdb.com/bundles/cards/01049.png
+50,A Test of Will,Event,FALSE,Spirit,,1,,,,,,,Core Set,Core Set,50,3,,01050,https://www.ringsdb.com/card/01050,https://www.ringsdb.com/bundles/cards/01050.png
+51,Stand and Fight,Event,FALSE,Spirit,,X,,,,,,,Core Set,Core Set,51,3,,01051,https://www.ringsdb.com/card/01051,https://www.ringsdb.com/bundles/cards/01051.png
+52,A Light in the Dark,Event,FALSE,Spirit,,2,,,,,,,Core Set,Core Set,52,3,,01052,https://www.ringsdb.com/card/01052,https://www.ringsdb.com/bundles/cards/01052.png
+53,Dwarven Tomb,Event,FALSE,Spirit,,1,,,,,,,Core Set,Core Set,53,3,,01053,https://www.ringsdb.com/card/01053,https://www.ringsdb.com/bundles/cards/01053.png
+54,Fortune or Fate,Event,FALSE,Spirit,,5,,,,,,,Core Set,Core Set,54,3,,01054,https://www.ringsdb.com/card/01054,https://www.ringsdb.com/bundles/cards/01054.png
+55,The Favor of the Lady,Attachment,FALSE,Spirit,,2,,,,,Condition.,,Core Set,Core Set,55,3,,01055,https://www.ringsdb.com/card/01055,https://www.ringsdb.com/bundles/cards/01055.png
+56,Power in the Earth,Attachment,FALSE,Spirit,,1,,,,,Condition.,,Core Set,Core Set,56,3,,01056,https://www.ringsdb.com/card/01056,https://www.ringsdb.com/bundles/cards/01056.png
+57,Unexpected Courage,Attachment,FALSE,Spirit,,2,,,,,Condition.,,Core Set,Core Set,57,3,,01057,https://www.ringsdb.com/card/01057,https://www.ringsdb.com/bundles/cards/01057.png
+58,Daughter of the Nimrodel,Ally,FALSE,Lore,,3,1,0,0,1,Silvan.,,Core Set,Core Set,58,3,,01058,https://www.ringsdb.com/card/01058,https://www.ringsdb.com/bundles/cards/01058.png
+59,Erebor Hammersmith,Ally,FALSE,Lore,,2,1,1,1,3,Dwarf. Craftsman.,,Core Set,Core Set,59,3,,01059,https://www.ringsdb.com/card/01059,https://www.ringsdb.com/bundles/cards/01059.png
+60,Henamarth Riversong,Ally,TRUE,Lore,,1,1,1,0,1,Silvan.,,Core Set,Core Set,60,3,,01060,https://www.ringsdb.com/card/01060,https://www.ringsdb.com/bundles/cards/01060.png
+61,Miner of the Iron Hills,Ally,FALSE,Lore,,2,0,1,1,2,Dwarf.,,Core Set,Core Set,61,3,,01061,https://www.ringsdb.com/card/01061,https://www.ringsdb.com/bundles/cards/01061.png
+62,Gléowine,Ally,TRUE,Lore,,2,1,0,0,2,Minstrel. Rohan.,,Core Set,Core Set,62,3,,01062,https://www.ringsdb.com/card/01062,https://www.ringsdb.com/bundles/cards/01062.png
+63,Lore of Imladris,Event,FALSE,Lore,,2,,,,,,,Core Set,Core Set,63,3,,01063,https://www.ringsdb.com/card/01063,https://www.ringsdb.com/bundles/cards/01063.png
+64,Lórien's Wealth,Event,FALSE,Lore,,3,,,,,,,Core Set,Core Set,64,3,,01064,https://www.ringsdb.com/card/01064,https://www.ringsdb.com/bundles/cards/01064.png
+65,Radagast's Cunning,Event,FALSE,Lore,,1,,,,,,,Core Set,Core Set,65,3,,01065,https://www.ringsdb.com/card/01065,https://www.ringsdb.com/bundles/cards/01065.png
+66,Secret Paths,Event,FALSE,Lore,,1,,,,,,,Core Set,Core Set,66,3,,01066,https://www.ringsdb.com/card/01066,https://www.ringsdb.com/bundles/cards/01066.png
+67,Gandalf's Search,Event,FALSE,Lore,,X,,,,,,,Core Set,Core Set,67,3,,01067,https://www.ringsdb.com/card/01067,https://www.ringsdb.com/bundles/cards/01067.png
+68,Beorn's Hospitality,Event,FALSE,Lore,,5,,,,,,,Core Set,Core Set,68,3,,01068,https://www.ringsdb.com/card/01068,https://www.ringsdb.com/bundles/cards/01068.png
+69,Forest Snare,Attachment,FALSE,Lore,,3,,,,,Item. Trap.,,Core Set,Core Set,69,3,,01069,https://www.ringsdb.com/card/01069,https://www.ringsdb.com/bundles/cards/01069.png
+70,Protector of Lórien,Attachment,FALSE,Lore,,1,,,,,Title.,,Core Set,Core Set,70,3,,01070,https://www.ringsdb.com/card/01070,https://www.ringsdb.com/bundles/cards/01070.png
+71,Dark Knowledge,Attachment,FALSE,Lore,,1,,,,,Condition.,,Core Set,Core Set,71,3,,01071,https://www.ringsdb.com/card/01071,https://www.ringsdb.com/bundles/cards/01071.png
+72,Self Preservation,Attachment,FALSE,Lore,,3,,,,,Skill.,,Core Set,Core Set,72,3,,01072,https://www.ringsdb.com/card/01072,https://www.ringsdb.com/bundles/cards/01072.png
+73,Gandalf,Ally,TRUE,Neutral,,5,4,4,4,4,Istari.,,Core Set,Core Set,73,12,,01073,https://www.ringsdb.com/card/01073,https://www.ringsdb.com/bundles/cards/01073.png
+74,Bilbo Baggins,Hero,TRUE,Lore,9,,1,1,2,2,Hobbit.,,Shadows of Mirkwood,The Hunt for Gollum,1,1,,02001,https://www.ringsdb.com/card/02001,https://www.ringsdb.com/bundles/cards/02001.png
+75,Dúnedain Mark,Attachment,FALSE,Leadership,,1,,,,,Signal.,,Shadows of Mirkwood,The Hunt for Gollum,2,3,,02002,https://www.ringsdb.com/card/02002,https://www.ringsdb.com/bundles/cards/02002.png
+76,Campfire Tales,Event,FALSE,Leadership,,1,,,,,,,Shadows of Mirkwood,The Hunt for Gollum,3,3,,02003,https://www.ringsdb.com/card/02003,https://www.ringsdb.com/bundles/cards/02003.png
+77,Winged Guardian,Ally,FALSE,Tactics,,2,0,0,4,1,Creature. Eagle.,Sentinel.,Shadows of Mirkwood,The Hunt for Gollum,4,3,,02004,https://www.ringsdb.com/card/02004,https://www.ringsdb.com/bundles/cards/02004.png
+78,The Eagles Are Coming!,Event,FALSE,Tactics,,0,,,,,Eagle.,,Shadows of Mirkwood,The Hunt for Gollum,5,3,,02005,https://www.ringsdb.com/card/02005,https://www.ringsdb.com/bundles/cards/02005.png
+79,Westfold Horse-breaker,Ally,FALSE,Spirit,,2,1,0,1,1,Rohan.,,Shadows of Mirkwood,The Hunt for Gollum,6,3,,02006,https://www.ringsdb.com/card/02006,https://www.ringsdb.com/bundles/cards/02006.png
+80,Mustering the Rohirrim,Event,FALSE,Spirit,,1,,,,,,,Shadows of Mirkwood,The Hunt for Gollum,7,3,,02007,https://www.ringsdb.com/card/02007,https://www.ringsdb.com/bundles/cards/02007.png
+81,Rivendell Minstrel,Ally,FALSE,Lore,,3,2,0,0,1,Noldor.,,Shadows of Mirkwood,The Hunt for Gollum,8,3,,02008,https://www.ringsdb.com/card/02008,https://www.ringsdb.com/bundles/cards/02008.png
+82,Strider's Path,Event,FALSE,Lore,,1,,,,,,,Shadows of Mirkwood,The Hunt for Gollum,9,3,,02009,https://www.ringsdb.com/card/02009,https://www.ringsdb.com/bundles/cards/02009.png
+83,Song of Kings,Attachment,FALSE,Neutral,,1,,,,,Song.,,Shadows of Mirkwood,The Hunt for Gollum,10,3,,02010,https://www.ringsdb.com/card/02010,https://www.ringsdb.com/bundles/cards/02010.png
+84,Frodo Baggins,Hero,TRUE,Spirit,7,,2,1,2,2,Hobbit.,,Shadows of Mirkwood,Conflict at the Carrock,25,1,,02025,https://www.ringsdb.com/card/02025,https://www.ringsdb.com/bundles/cards/02025.png
+85,Dúnedain Warning,Attachment,FALSE,Leadership,,1,,,,,Signal.,,Shadows of Mirkwood,Conflict at the Carrock,26,3,,02026,https://www.ringsdb.com/card/02026,https://www.ringsdb.com/bundles/cards/02026.png
+86,Second Breakfast,Event,FALSE,Leadership,,1,,,,,,,Shadows of Mirkwood,Conflict at the Carrock,27,3,,02027,https://www.ringsdb.com/card/02027,https://www.ringsdb.com/bundles/cards/02027.png
+87,Beorning Beekeeper,Ally,FALSE,Tactics,,4,1,2,1,3,Beorning.,,Shadows of Mirkwood,Conflict at the Carrock,28,3,,02028,https://www.ringsdb.com/card/02028,https://www.ringsdb.com/bundles/cards/02028.png
+88,Born Aloft,Attachment,FALSE,Tactics,,0,,,,,Condition.,,Shadows of Mirkwood,Conflict at the Carrock,29,3,,02029,https://www.ringsdb.com/card/02029,https://www.ringsdb.com/bundles/cards/02029.png
+89,Éomund,Ally,TRUE,Spirit,,3,2,1,1,2,Rohan.,,Shadows of Mirkwood,Conflict at the Carrock,30,3,,02030,https://www.ringsdb.com/card/02030,https://www.ringsdb.com/bundles/cards/02030.png
+90,Nor am I a Stranger,Attachment,FALSE,Spirit,,1,,,,,Title.,,Shadows of Mirkwood,Conflict at the Carrock,31,3,,02031,https://www.ringsdb.com/card/02031,https://www.ringsdb.com/bundles/cards/02031.png
+91,Longbeard Map-Maker,Ally,FALSE,Lore,,3,1,1,1,3,Dwarf.,,Shadows of Mirkwood,Conflict at the Carrock,32,3,,02032,https://www.ringsdb.com/card/02032,https://www.ringsdb.com/bundles/cards/02032.png
+92,A Burning Brand,Attachment,FALSE,Lore,,2,,,,,Item.,Restricted.,Shadows of Mirkwood,Conflict at the Carrock,33,3,,02033,https://www.ringsdb.com/card/02033,https://www.ringsdb.com/bundles/cards/02033.png
+93,Song of Wisdom,Attachment,FALSE,Neutral,,1,,,,,Song.,,Shadows of Mirkwood,Conflict at the Carrock,34,3,,02034,https://www.ringsdb.com/card/02034,https://www.ringsdb.com/bundles/cards/02034.png
+94,Prince Imrahil,Hero,TRUE,Leadership,11,,2,3,2,4,Gondor. Noble.,,Shadows of Mirkwood,A Journey to Rhosgobel,50,1,,02050,https://www.ringsdb.com/card/02050,https://www.ringsdb.com/bundles/cards/02050.png
+95,Dúnedain Quest,Attachment,FALSE,Leadership,,2,,,,,Signal.,,Shadows of Mirkwood,A Journey to Rhosgobel,51,3,,02051,https://www.ringsdb.com/card/02051,https://www.ringsdb.com/bundles/cards/02051.png
+96,Parting Gifts,Event,FALSE,Leadership,,0,,,,,,,Shadows of Mirkwood,A Journey to Rhosgobel,52,3,,02052,https://www.ringsdb.com/card/02052,https://www.ringsdb.com/bundles/cards/02052.png
+97,Landroval,Ally,TRUE,Tactics,,5,1,3,1,4,Creature. Eagle.,Sentinel.,Shadows of Mirkwood,A Journey to Rhosgobel,53,3,,02053,https://www.ringsdb.com/card/02053,https://www.ringsdb.com/bundles/cards/02053.png
+98,To the Eyrie,Event,FALSE,Tactics,,2,,,,,,,Shadows of Mirkwood,A Journey to Rhosgobel,54,3,,02054,https://www.ringsdb.com/card/02054,https://www.ringsdb.com/bundles/cards/02054.png
+99,Escort from Edoras,Ally,FALSE,Spirit,,2,2,0,0,1,Rohan.,,Shadows of Mirkwood,A Journey to Rhosgobel,55,3,,02055,https://www.ringsdb.com/card/02055,https://www.ringsdb.com/bundles/cards/02055.png
+100,Ancient Mathom,Attachment,FALSE,Spirit,,1,,,,,Mathom.,,Shadows of Mirkwood,A Journey to Rhosgobel,56,3,,02056,https://www.ringsdb.com/card/02056,https://www.ringsdb.com/bundles/cards/02056.png
+101,Haldir of Lórien,Ally,TRUE,Lore,,4,2,2,2,3,Silvan.,Ranged. Sentinel.,Shadows of Mirkwood,A Journey to Rhosgobel,57,3,,02057,https://www.ringsdb.com/card/02057,https://www.ringsdb.com/bundles/cards/02057.png
+102,Infighting,Event,FALSE,Lore,,1,,,,,,,Shadows of Mirkwood,A Journey to Rhosgobel,58,3,,02058,https://www.ringsdb.com/card/02058,https://www.ringsdb.com/bundles/cards/02058.png
+103,Radagast,Ally,TRUE,Neutral,,5,2,1,1,3,Istari.,,Shadows of Mirkwood,A Journey to Rhosgobel,59,3,,02059,https://www.ringsdb.com/card/02059,https://www.ringsdb.com/bundles/cards/02059.png
+104,Brand son of Bain,Hero,TRUE,Tactics,10,,2,3,2,3,Dale.,Ranged.,Shadows of Mirkwood,The Hills of Emyn Muil,72,1,,02072,https://www.ringsdb.com/card/02072,https://www.ringsdb.com/bundles/cards/02072.png
+105,Keen-eyed Took,Ally,FALSE,Leadership,,2,1,0,0,2,Hobbit.,,Shadows of Mirkwood,The Hills of Emyn Muil,73,3,,02073,https://www.ringsdb.com/card/02073,https://www.ringsdb.com/bundles/cards/02073.png
+106,Rear Guard,Event,FALSE,Leadership,,1,,,,,,,Shadows of Mirkwood,The Hills of Emyn Muil,74,3,,02074,https://www.ringsdb.com/card/02074,https://www.ringsdb.com/bundles/cards/02074.png
+107,Descendant of Thorondor,Ally,FALSE,Tactics,,4,1,2,1,2,Creature. Eagle.,,Shadows of Mirkwood,The Hills of Emyn Muil,75,3,,02075,https://www.ringsdb.com/card/02075,https://www.ringsdb.com/bundles/cards/02075.png
+108,Meneldor's Flight,Event,FALSE,Tactics,,0,,,,,,,Shadows of Mirkwood,The Hills of Emyn Muil,76,3,,02076,https://www.ringsdb.com/card/02076,https://www.ringsdb.com/bundles/cards/02076.png
+109,The Riddermark's Finest,Ally,FALSE,Spirit,,2,1,1,0,2,Creature. Rohan.,,Shadows of Mirkwood,The Hills of Emyn Muil,77,3,,02077,https://www.ringsdb.com/card/02077,https://www.ringsdb.com/bundles/cards/02077.png
+110,Ride to Ruin,Event,FALSE,Spirit,,1,,,,,,,Shadows of Mirkwood,The Hills of Emyn Muil,78,3,,02078,https://www.ringsdb.com/card/02078,https://www.ringsdb.com/bundles/cards/02078.png
+111,Gildor Inglorion,Ally,TRUE,Lore,,5,3,2,3,3,Noldor.,,Shadows of Mirkwood,The Hills of Emyn Muil,79,3,,02079,https://www.ringsdb.com/card/02079,https://www.ringsdb.com/bundles/cards/02079.png
+112,Gildor's Counsel,Event,FALSE,Lore,,3,,,,,,,Shadows of Mirkwood,The Hills of Emyn Muil,80,3,,02080,https://www.ringsdb.com/card/02080,https://www.ringsdb.com/bundles/cards/02080.png
+113,Song of Travel,Attachment,FALSE,Neutral,,1,,,,,Song.,,Shadows of Mirkwood,The Hills of Emyn Muil,81,3,,02081,https://www.ringsdb.com/card/02081,https://www.ringsdb.com/bundles/cards/02081.png
+114,Boromir,Hero,TRUE,Tactics,11,,1,3,2,5,Gondor. Noble. Warrior.,,Shadows of Mirkwood,The Dead Marshes,95,1,,02095,https://www.ringsdb.com/card/02095,https://www.ringsdb.com/bundles/cards/02095.png
+115,Dúnedain Watcher,Ally,FALSE,Leadership,,3,1,1,1,2,Dúnedain.,,Shadows of Mirkwood,The Dead Marshes,96,3,,02096,https://www.ringsdb.com/card/02096,https://www.ringsdb.com/bundles/cards/02096.png
+116,Dúnedain Cache,Attachment,FALSE,Leadership,,2,,,,,Item.,Ranged.,Shadows of Mirkwood,The Dead Marshes,97,3,,02097,https://www.ringsdb.com/card/02097,https://www.ringsdb.com/bundles/cards/02097.png
+117,Vassal of the Windlord,Ally,FALSE,Tactics,,1,0,3,0,1,Creature. Eagle.,Ranged.,Shadows of Mirkwood,The Dead Marshes,98,3,,02098,https://www.ringsdb.com/card/02098,https://www.ringsdb.com/bundles/cards/02098.png
+118,Song of Mocking,Attachment,FALSE,Tactics,,1,,,,,Song.,,Shadows of Mirkwood,The Dead Marshes,99,3,,02099,https://www.ringsdb.com/card/02099,https://www.ringsdb.com/bundles/cards/02099.png
+119,Elfhelm,Ally,TRUE,Spirit,,4,1,2,2,3,Rohan. Warrior.,,Shadows of Mirkwood,The Dead Marshes,100,3,,02100,https://www.ringsdb.com/card/02100,https://www.ringsdb.com/bundles/cards/02100.png
+120,We Do Not Sleep,Event,FALSE,Spirit,,5,,,,,,,Shadows of Mirkwood,The Dead Marshes,101,3,,02101,https://www.ringsdb.com/card/02101,https://www.ringsdb.com/bundles/cards/02101.png
+121,Silvan Tracker,Ally,FALSE,Lore,,3,1,1,1,3,Silvan.,,Shadows of Mirkwood,The Dead Marshes,102,3,,02102,https://www.ringsdb.com/card/02102,https://www.ringsdb.com/bundles/cards/02102.png
+122,Fast Hitch,Attachment,FALSE,Lore,,1,,,,,Skill.,,Shadows of Mirkwood,The Dead Marshes,103,3,,02103,https://www.ringsdb.com/card/02103,https://www.ringsdb.com/bundles/cards/02103.png
+123,Song of Battle,Attachment,FALSE,Neutral,,1,,,,,Song.,,Shadows of Mirkwood,The Dead Marshes,104,3,,02104,https://www.ringsdb.com/card/02104,https://www.ringsdb.com/bundles/cards/02104.png
+124,Dáin Ironfoot,Hero,TRUE,Leadership,11,,1,2,3,5,Dwarf. Noble.,,Shadows of Mirkwood,Return to Mirkwood,116,1,,02116,https://www.ringsdb.com/card/02116,https://www.ringsdb.com/bundles/cards/02116.png
+125,Dúnedain Signal,Attachment,FALSE,Leadership,,1,,,,,Signal.,Sentinel.,Shadows of Mirkwood,Return to Mirkwood,117,3,,02117,https://www.ringsdb.com/card/02117,https://www.ringsdb.com/bundles/cards/02117.png
+126,Dawn Take You All,Event,FALSE,Leadership,,2,,,,,,,Shadows of Mirkwood,Return to Mirkwood,118,3,,02118,https://www.ringsdb.com/card/02118,https://www.ringsdb.com/bundles/cards/02118.png
+127,Eagles of the Misty Mountains,Ally,FALSE,Tactics,,4,2,2,2,4,Creature. Eagle.,,Shadows of Mirkwood,Return to Mirkwood,119,3,,02119,https://www.ringsdb.com/card/02119,https://www.ringsdb.com/bundles/cards/02119.png
+128,Support of the Eagles,Attachment,FALSE,Tactics,,3,,,,,Boon.,,Shadows of Mirkwood,Return to Mirkwood,120,3,,02120,https://www.ringsdb.com/card/02120,https://www.ringsdb.com/bundles/cards/02120.png
+129,West Road Traveller,Ally,FALSE,Spirit,,2,2,0,0,1,Rohan.,,Shadows of Mirkwood,Return to Mirkwood,121,3,,02121,https://www.ringsdb.com/card/02121,https://www.ringsdb.com/bundles/cards/02121.png
+130,Astonishing Speed,Event,FALSE,Spirit,,3,,,,,,,Shadows of Mirkwood,Return to Mirkwood,122,3,,02122,https://www.ringsdb.com/card/02122,https://www.ringsdb.com/bundles/cards/02122.png
+131,Mirkwood Runner,Ally,FALSE,Lore,,3,1,2,0,2,Silvan. Scout.,,Shadows of Mirkwood,Return to Mirkwood,123,3,,02123,https://www.ringsdb.com/card/02123,https://www.ringsdb.com/bundles/cards/02123.png
+132,Rumour from the Earth,Event,FALSE,Lore,,0,,,,,,,Shadows of Mirkwood,Return to Mirkwood,124,3,,02124,https://www.ringsdb.com/card/02124,https://www.ringsdb.com/bundles/cards/02124.png
+133,Shadow of the Past,Event,FALSE,Neutral,,2,,,,,,,Shadows of Mirkwood,Return to Mirkwood,125,3,,02125,https://www.ringsdb.com/card/02125,https://www.ringsdb.com/bundles/cards/02125.png
+134,Dwalin,Hero,TRUE,Spirit,9,,1,2,2,4,Dwarf.,,Khazad-dûm,Khazad-dûm,1,1,,03001,https://www.ringsdb.com/card/03001,https://www.ringsdb.com/bundles/cards/03001.png
+135,Bifur,Hero,TRUE,Lore,7,,2,1,2,3,Dwarf.,,Khazad-dûm,Khazad-dûm,2,1,,03002,https://www.ringsdb.com/card/03002,https://www.ringsdb.com/bundles/cards/03002.png
+136,Narvi's Belt,Attachment,TRUE,Leadership,,2,,,,,Item.,,Khazad-dûm,Khazad-dûm,3,3,,03003,https://www.ringsdb.com/card/03003,https://www.ringsdb.com/bundles/cards/03003.png
+137,Durin's Song,Event,FALSE,Leadership,,1,,,,,Song.,,Khazad-dûm,Khazad-dûm,4,3,,03004,https://www.ringsdb.com/card/03004,https://www.ringsdb.com/bundles/cards/03004.png
+138,Ever Onward,Event,FALSE,Leadership,,3,,,,,,,Khazad-dûm,Khazad-dûm,5,3,,03005,https://www.ringsdb.com/card/03005,https://www.ringsdb.com/bundles/cards/03005.png
+139,Veteran of Nanduhirion,Ally,FALSE,Tactics,,4,0,3,2,3,Dwarf. Warrior.,,Khazad-dûm,Khazad-dûm,6,3,,03006,https://www.ringsdb.com/card/03006,https://www.ringsdb.com/bundles/cards/03006.png
+140,Dwarrowdelf Axe,Attachment,FALSE,Tactics,,1,,,,,Item. Weapon.,Restricted.,Khazad-dûm,Khazad-dûm,7,3,,03007,https://www.ringsdb.com/card/03007,https://www.ringsdb.com/bundles/cards/03007.png
+141,Khazâd! Khazâd!,Event,FALSE,Tactics,,0,,,,,,,Khazad-dûm,Khazad-dûm,8,3,,03008,https://www.ringsdb.com/card/03008,https://www.ringsdb.com/bundles/cards/03008.png
+142,Zigil Miner,Ally,FALSE,Spirit,,2,1,1,1,1,Dwarf.,,Khazad-dûm,Khazad-dûm,9,3,,03009,https://www.ringsdb.com/card/03009,https://www.ringsdb.com/bundles/cards/03009.png
+143,Untroubled by Darkness,Event,FALSE,Spirit,,2,,,,,,,Khazad-dûm,Khazad-dûm,10,3,,03010,https://www.ringsdb.com/card/03010,https://www.ringsdb.com/bundles/cards/03010.png
+144,Erebor Record Keeper,Ally,FALSE,Lore,,1,1,0,0,1,Dwarf.,,Khazad-dûm,Khazad-dûm,11,3,,03011,https://www.ringsdb.com/card/03011,https://www.ringsdb.com/bundles/cards/03011.png
+145,Ancestral Knowledge,Event,FALSE,Lore,,1,,,,,,,Khazad-dûm,Khazad-dûm,12,3,,03012,https://www.ringsdb.com/card/03012,https://www.ringsdb.com/bundles/cards/03012.png
+146,Boots from Erebor,Attachment,FALSE,Neutral,,0,,,,,Item.,,Khazad-dûm,Khazad-dûm,13,3,,03013,https://www.ringsdb.com/card/03013,https://www.ringsdb.com/bundles/cards/03013.png
+147,Elrohir,Hero,TRUE,Leadership,10,,2,2,1,4,Noldor. Noble. Ranger.,,Dwarrowdelf,The Redhorn Gate,1,1,,04001,https://www.ringsdb.com/card/04001,https://www.ringsdb.com/bundles/cards/04001.png
+148,Taking Initiative,Event,FALSE,Leadership,,0,,,,,,,Dwarrowdelf,The Redhorn Gate,2,3,,04002,https://www.ringsdb.com/card/04002,https://www.ringsdb.com/bundles/cards/04002.png
+149,Timely Aid,Event,FALSE,Leadership,,4,,,,,,Secrecy.,Dwarrowdelf,The Redhorn Gate,3,3,,04003,https://www.ringsdb.com/card/04003,https://www.ringsdb.com/bundles/cards/04003.png
+150,Unseen Strike,Event,FALSE,Tactics,,0,,,,,,,Dwarrowdelf,The Redhorn Gate,4,3,,04004,https://www.ringsdb.com/card/04004,https://www.ringsdb.com/bundles/cards/04004.png
+151,Keeping Count,Attachment,FALSE,Tactics,,0,,,,,,,Dwarrowdelf,The Redhorn Gate,5,3,,04005,https://www.ringsdb.com/card/04005,https://www.ringsdb.com/bundles/cards/04005.png
+152,Bofur,Ally,TRUE,Spirit,,3,2,1,1,3,Dwarf.,,Dwarrowdelf,The Redhorn Gate,6,3,,04006,https://www.ringsdb.com/card/04006,https://www.ringsdb.com/bundles/cards/04006.png
+153,Renewed Friendship,Event,FALSE,Spirit,,0,,,,,,,Dwarrowdelf,The Redhorn Gate,7,3,,04007,https://www.ringsdb.com/card/04007,https://www.ringsdb.com/bundles/cards/04007.png
+154,Ravenhill Scout,Ally,FALSE,Lore,,3,0,1,1,3,Dale. Scout.,,Dwarrowdelf,The Redhorn Gate,8,3,,04008,https://www.ringsdb.com/card/04008,https://www.ringsdb.com/bundles/cards/04008.png
+155,Needful to Know,Event,FALSE,Lore,,2,,,,,,Secrecy.,Dwarrowdelf,The Redhorn Gate,9,3,,04009,https://www.ringsdb.com/card/04009,https://www.ringsdb.com/bundles/cards/04009.png
+156,Good Meal,Attachment,FALSE,Neutral,,0,,,,,,,Dwarrowdelf,The Redhorn Gate,10,3,,04010,https://www.ringsdb.com/card/04010,https://www.ringsdb.com/bundles/cards/04010.png
+157,Elladan,Hero,TRUE,Tactics,10,,2,1,2,4,Noldor. Noble. Ranger.,,Dwarrowdelf,Road to Rivendell,28,1,,04028,https://www.ringsdb.com/card/04028,https://www.ringsdb.com/bundles/cards/04028.png
+158,Dúnedain Wanderer,Ally,FALSE,Leadership,,5,1,2,2,2,Dúnedain. Ranger.,Ranged. Secrecy. Sentinel.,Dwarrowdelf,Road to Rivendell,29,3,,04029,https://www.ringsdb.com/card/04029,https://www.ringsdb.com/bundles/cards/04029.png
+159,Lure of Moria,Event,FALSE,Leadership,,3,,,,,,,Dwarrowdelf,Road to Rivendell,30,3,,04030,https://www.ringsdb.com/card/04030,https://www.ringsdb.com/bundles/cards/04030.png
+160,Rivendell Blade,Attachment,FALSE,Tactics,,1,,,,,Item. Weapon.,Restricted.,Dwarrowdelf,Road to Rivendell,31,3,,04031,https://www.ringsdb.com/card/04031,https://www.ringsdb.com/bundles/cards/04031.png
+161,Hail of Stones,Event,FALSE,Tactics,,1,,,,,,,Dwarrowdelf,Road to Rivendell,32,3,,04032,https://www.ringsdb.com/card/04032,https://www.ringsdb.com/bundles/cards/04032.png
+162,Rider of the Mark,Ally,FALSE,Spirit,,3,2,1,1,2,Rohan.,,Dwarrowdelf,Road to Rivendell,33,3,,04033,https://www.ringsdb.com/card/04033,https://www.ringsdb.com/bundles/cards/04033.png
+163,Song of Eärendil,Attachment,FALSE,Spirit,,1,,,,,Song.,,Dwarrowdelf,Road to Rivendell,34,3,,04034,https://www.ringsdb.com/card/04034,https://www.ringsdb.com/bundles/cards/04034.png
+164,Bombur,Ally,TRUE,Lore,,3,0,0,1,3,Dwarf.,,Dwarrowdelf,Road to Rivendell,35,3,,04035,https://www.ringsdb.com/card/04035,https://www.ringsdb.com/bundles/cards/04035.png
+165,Out of the Wild,Event,FALSE,Lore,,3,,,,,,Secrecy.,Dwarrowdelf,Road to Rivendell,36,3,,04036,https://www.ringsdb.com/card/04036,https://www.ringsdb.com/bundles/cards/04036.png
+166,The End Comes,Event,FALSE,Neutral,,0,,,,,,,Dwarrowdelf,Road to Rivendell,37,3,,04037,https://www.ringsdb.com/card/04037,https://www.ringsdb.com/bundles/cards/04037.png
+167,Aragorn,Hero,TRUE,Lore,12,,2,3,2,5,Dúnedain. Ranger.,Sentinel.,Dwarrowdelf,The Watcher in the Water,53,1,,04053,https://www.ringsdb.com/card/04053,https://www.ringsdb.com/bundles/cards/04053.png
+168,Grave Cairn,Event,FALSE,Leadership,,1,,,,,,,Dwarrowdelf,The Watcher in the Water,54,3,,04054,https://www.ringsdb.com/card/04054,https://www.ringsdb.com/bundles/cards/04054.png
+169,Sword that was Broken,Attachment,TRUE,Leadership,,3,,,,,Artifact.,,Dwarrowdelf,The Watcher in the Water,55,3,,04055,https://www.ringsdb.com/card/04055,https://www.ringsdb.com/bundles/cards/04055.png
+170,Watcher of the Bruinen,Ally,FALSE,Tactics,,2,0,1,2,2,Noldor. Warrior.,Sentinel.,Dwarrowdelf,The Watcher in the Water,56,3,,04056,https://www.ringsdb.com/card/04056,https://www.ringsdb.com/bundles/cards/04056.png
+171,Rivendell Bow,Attachment,FALSE,Tactics,,1,,,,,Item. Weapon.,Ranged.,Dwarrowdelf,The Watcher in the Water,57,3,,04057,https://www.ringsdb.com/card/04057,https://www.ringsdb.com/bundles/cards/04057.png
+172,Arwen Undómiel,Ally,TRUE,Spirit,,2,2,0,1,2,Noldor. Noble.,Sentinel.,Dwarrowdelf,The Watcher in the Water,58,3,,04058,https://www.ringsdb.com/card/04058,https://www.ringsdb.com/bundles/cards/04058.png
+173,Elrond's Counsel,Event,FALSE,Spirit,,0,,,,,,,Dwarrowdelf,The Watcher in the Water,59,3,,04059,https://www.ringsdb.com/card/04059,https://www.ringsdb.com/bundles/cards/04059.png
+174,Short Cut,Event,FALSE,Lore,,1,,,,,,,Dwarrowdelf,The Watcher in the Water,60,3,,04060,https://www.ringsdb.com/card/04060,https://www.ringsdb.com/bundles/cards/04060.png
+175,Legacy of Durin,Attachment,TRUE,Lore,,1,,,,,Condition.,,Dwarrowdelf,The Watcher in the Water,61,3,,04061,https://www.ringsdb.com/card/04061,https://www.ringsdb.com/bundles/cards/04061.png
+176,Resourceful,Attachment,FALSE,Neutral,,4,,,,,,Secrecy.,Dwarrowdelf,The Watcher in the Water,62,3,,04062,https://www.ringsdb.com/card/04062,https://www.ringsdb.com/bundles/cards/04062.png
+177,Háma,Hero,TRUE,Tactics,9,,1,3,1,4,Rohan. Warrior.,,Dwarrowdelf,The Long Dark,76,1,,04076,https://www.ringsdb.com/card/04076,https://www.ringsdb.com/bundles/cards/04076.png
+178,Erestor,Ally,TRUE,Leadership,,4,2,0,1,3,Noldor.,,Dwarrowdelf,The Long Dark,77,3,,04077,https://www.ringsdb.com/card/04077,https://www.ringsdb.com/bundles/cards/04077.png
+179,Fresh Tracks,Event,FALSE,Leadership,,1,,,,,,,Dwarrowdelf,The Long Dark,78,3,,04078,https://www.ringsdb.com/card/04078,https://www.ringsdb.com/bundles/cards/04078.png
+180,Erebor Battle Master,Ally,FALSE,Tactics,,3,0,1,1,2,Dwarf. Warrior.,,Dwarrowdelf,The Long Dark,79,3,,04079,https://www.ringsdb.com/card/04079,https://www.ringsdb.com/bundles/cards/04079.png
+181,Ring Mail,Attachment,FALSE,Tactics,,2,,,,,Item. Armor.,Restricted.,Dwarrowdelf,The Long Dark,80,3,,04080,https://www.ringsdb.com/card/04080,https://www.ringsdb.com/bundles/cards/04080.png
+182,Out of Sight,Event,FALSE,Spirit,,5,,,,,,Secrecy.,Dwarrowdelf,The Long Dark,81,3,,04081,https://www.ringsdb.com/card/04081,https://www.ringsdb.com/bundles/cards/04081.png
+183,Ever My Heart Rises,Attachment,FALSE,Spirit,,0,,,,,Condition.,,Dwarrowdelf,The Long Dark,82,3,,04082,https://www.ringsdb.com/card/04082,https://www.ringsdb.com/bundles/cards/04082.png
+184,Warden of Healing,Ally,FALSE,Lore,,2,1,0,1,1,Gondor. Healer.,,Dwarrowdelf,The Long Dark,83,3,,04083,https://www.ringsdb.com/card/04083,https://www.ringsdb.com/bundles/cards/04083.png
+185,Word of Command,Event,FALSE,Lore,,1,,,,,,,Dwarrowdelf,The Long Dark,84,3,,04084,https://www.ringsdb.com/card/04084,https://www.ringsdb.com/bundles/cards/04084.png
+186,Love of Tales,Attachment,FALSE,Lore,,0,,,,,Condition.,,Dwarrowdelf,The Long Dark,85,3,,04085,https://www.ringsdb.com/card/04085,https://www.ringsdb.com/bundles/cards/04085.png
+187,Glorfindel,Hero,TRUE,Spirit,5,,3,3,1,5,Noldor. Noble. Warrior.,,Dwarrowdelf,Foundations of Stone,101,1,,04101,https://www.ringsdb.com/card/04101,https://www.ringsdb.com/bundles/cards/04101.png
+188,Longbeard Elder,Ally,FALSE,Leadership,,3,2,1,1,2,Dwarf.,,Dwarrowdelf,Foundations of Stone,102,3,,04102,https://www.ringsdb.com/card/04102,https://www.ringsdb.com/bundles/cards/04102.png
+189,Path of Need,Attachment,FALSE,Leadership,,4,,,,,Condition.,,Dwarrowdelf,Foundations of Stone,103,3,,04103,https://www.ringsdb.com/card/04103,https://www.ringsdb.com/bundles/cards/04103.png
+190,Trollshaw Scout,Ally,FALSE,Tactics,,2,0,2,1,2,Noldor. Scout.,Ranged.,Dwarrowdelf,Foundations of Stone,104,3,,04104,https://www.ringsdb.com/card/04104,https://www.ringsdb.com/bundles/cards/04104.png
+191,Heavy Stroke,Event,FALSE,Tactics,,1,,,,,,,Dwarrowdelf,Foundations of Stone,105,3,,04105,https://www.ringsdb.com/card/04105,https://www.ringsdb.com/bundles/cards/04105.png
+192,Imladris Stargazer,Ally,FALSE,Spirit,,2,0,0,1,1,Noldor.,,Dwarrowdelf,Foundations of Stone,106,3,,04106,https://www.ringsdb.com/card/04106,https://www.ringsdb.com/bundles/cards/04106.png
+193,Light of Valinor,Attachment,TRUE,Spirit,,1,,,,,Condition.,,Dwarrowdelf,Foundations of Stone,107,3,,04107,https://www.ringsdb.com/card/04107,https://www.ringsdb.com/bundles/cards/04107.png
+194,Daeron's Runes,Event,FALSE,Lore,,0,,,,,,,Dwarrowdelf,Foundations of Stone,108,3,,04108,https://www.ringsdb.com/card/04108,https://www.ringsdb.com/bundles/cards/04108.png
+195,Healing Herbs,Attachment,FALSE,Lore,,0,,,,,Item.,,Dwarrowdelf,Foundations of Stone,109,3,,04109,https://www.ringsdb.com/card/04109,https://www.ringsdb.com/bundles/cards/04109.png
+196,Asfaloth,Attachment,TRUE,Lore,,2,,,,,Mount.,,Dwarrowdelf,Foundations of Stone,110,3,,04110,https://www.ringsdb.com/card/04110,https://www.ringsdb.com/bundles/cards/04110.png
+197,Elrond,Hero,TRUE,Lore,13,,3,2,3,4,Noldor. Noble.,,Dwarrowdelf,Shadow and Flame,128,1,,04128,https://www.ringsdb.com/card/04128,https://www.ringsdb.com/bundles/cards/04128.png
+198,We Are Not Idle,Event,FALSE,Leadership,,0,,,,,,,Dwarrowdelf,Shadow and Flame,129,3,,04129,https://www.ringsdb.com/card/04129,https://www.ringsdb.com/bundles/cards/04129.png
+199,Hardy Leadership,Attachment,TRUE,Leadership,,2,,,,,,,Dwarrowdelf,Shadow and Flame,130,3,,04130,https://www.ringsdb.com/card/04130,https://www.ringsdb.com/bundles/cards/04130.png
+200,Hands Upon the Bow,Event,FALSE,Tactics,,1,,,,,,Ranged.,Dwarrowdelf,Shadow and Flame,131,3,,04131,https://www.ringsdb.com/card/04131,https://www.ringsdb.com/bundles/cards/04131.png
+201,A Elbereth! Gilthoniel!,Event,FALSE,Spirit,,4,,,,,,Secrecy.,Dwarrowdelf,Shadow and Flame,132,3,,04132,https://www.ringsdb.com/card/04132,https://www.ringsdb.com/bundles/cards/04132.png
+202,Miruvor,Attachment,FALSE,Spirit,,1,,,,,Item.,,Dwarrowdelf,Shadow and Flame,133,3,,04133,https://www.ringsdb.com/card/04133,https://www.ringsdb.com/bundles/cards/04133.png
+203,Master of the Forge,Ally,FALSE,Lore,,2,0,0,1,1,Noldor. Craftsman.,,Dwarrowdelf,Shadow and Flame,134,3,,04134,https://www.ringsdb.com/card/04134,https://www.ringsdb.com/bundles/cards/04134.png
+204,"Peace, and Thought",Event,FALSE,Lore,,1,,,,,,,Dwarrowdelf,Shadow and Flame,135,3,,04135,https://www.ringsdb.com/card/04135,https://www.ringsdb.com/bundles/cards/04135.png
+205,Risk Some Light,Event,FALSE,Lore,,3,,,,,,Secrecy.,Dwarrowdelf,Shadow and Flame,136,3,,04136,https://www.ringsdb.com/card/04136,https://www.ringsdb.com/bundles/cards/04136.png
+206,Vilya,Attachment,TRUE,Neutral,,2,,,,,Ring. Artifact.,,Dwarrowdelf,Shadow and Flame,137,3,,04137,https://www.ringsdb.com/card/04137,https://www.ringsdb.com/bundles/cards/04137.png
+207,Beregond,Hero,TRUE,Tactics,10,,0,1,4,4,Gondor. Warrior.,Sentinel.,Heirs of Númenor,Heirs of Númenor,1,1,,05001,https://www.ringsdb.com/card/05001,https://www.ringsdb.com/bundles/cards/05001.png
+208,Boromir,Hero,TRUE,Leadership,11,,1,3,2,5,Gondor. Warrior. Noble.,,Heirs of Númenor,Heirs of Númenor,2,1,,05002,https://www.ringsdb.com/card/05002,https://www.ringsdb.com/bundles/cards/05002.png
+209,Errand-rider,Ally,FALSE,Leadership,,1,0,0,0,2,Gondor.,,Heirs of Númenor,Heirs of Númenor,3,3,,05003,https://www.ringsdb.com/card/05003,https://www.ringsdb.com/bundles/cards/05003.png
+210,Citadel Custodian,Ally,FALSE,Leadership,,5,1,0,1,3,Gondor.,,Heirs of Númenor,Heirs of Númenor,4,3,,05004,https://www.ringsdb.com/card/05004,https://www.ringsdb.com/bundles/cards/05004.png
+211,Mutual Accord,Event,FALSE,Leadership,,0,,,,,,,Heirs of Númenor,Heirs of Númenor,5,3,,05005,https://www.ringsdb.com/card/05005,https://www.ringsdb.com/bundles/cards/05005.png
+212,Wealth of Gondor,Event,FALSE,Leadership,,0,,,,,,,Heirs of Númenor,Heirs of Númenor,6,3,,05006,https://www.ringsdb.com/card/05006,https://www.ringsdb.com/bundles/cards/05006.png
+213,Defender of Rammas,Ally,FALSE,Tactics,,2,0,1,4,1,Gondor. Warrior.,,Heirs of Númenor,Heirs of Númenor,7,3,,05007,https://www.ringsdb.com/card/05007,https://www.ringsdb.com/bundles/cards/05007.png
+214,Behind Strong Walls,Event,FALSE,Tactics,,1,,,,,,,Heirs of Númenor,Heirs of Númenor,8,3,,05008,https://www.ringsdb.com/card/05008,https://www.ringsdb.com/bundles/cards/05008.png
+215,Spear of the Citadel,Attachment,FALSE,Tactics,,2,,,,,Item. Weapon.,Restricted.,Heirs of Númenor,Heirs of Númenor,9,3,,05009,https://www.ringsdb.com/card/05009,https://www.ringsdb.com/bundles/cards/05009.png
+216,Damrod,Ally,TRUE,Spirit,,4,1,2,2,2,Gondor. Ranger.,,Heirs of Númenor,Heirs of Númenor,10,3,,05010,https://www.ringsdb.com/card/05010,https://www.ringsdb.com/bundles/cards/05010.png
+217,Light the Beacons,Event,FALSE,Spirit,,5,,,,,,,Heirs of Númenor,Heirs of Númenor,11,3,,05011,https://www.ringsdb.com/card/05011,https://www.ringsdb.com/bundles/cards/05011.png
+218,A Watchful Peace,Event,FALSE,Spirit,,1,,,,,,,Heirs of Númenor,Heirs of Númenor,12,3,,05012,https://www.ringsdb.com/card/05012,https://www.ringsdb.com/bundles/cards/05012.png
+219,Blood of Númenor,Attachment,FALSE,Spirit,,0,,,,,Condition.,,Heirs of Númenor,Heirs of Númenor,13,3,,05013,https://www.ringsdb.com/card/05013,https://www.ringsdb.com/bundles/cards/05013.png
+220,Hunter of Lamedon,Ally,FALSE,Lore,,2,1,1,1,1,Gondor. Outlands.,,Heirs of Númenor,Heirs of Númenor,14,3,,05014,https://www.ringsdb.com/card/05014,https://www.ringsdb.com/bundles/cards/05014.png
+221,Ithilien Tracker,Ally,FALSE,Lore,,2,0,1,0,3,Gondor. Ranger.,,Heirs of Númenor,Heirs of Númenor,15,3,,05015,https://www.ringsdb.com/card/05015,https://www.ringsdb.com/bundles/cards/05015.png
+222,Master of Lore,Ally,FALSE,Lore,,3,1,0,1,1,Gondor.,,Heirs of Númenor,Heirs of Númenor,16,3,,05016,https://www.ringsdb.com/card/05016,https://www.ringsdb.com/bundles/cards/05016.png
+223,Ranger Spikes,Attachment,FALSE,Lore,,2,,,,,Trap.,,Heirs of Númenor,Heirs of Númenor,17,3,,05017,https://www.ringsdb.com/card/05017,https://www.ringsdb.com/bundles/cards/05017.png
+224,Envoy of Pelargir,Ally,FALSE,Neutral,,2,1,1,0,1,Gondor.,,Heirs of Númenor,Heirs of Númenor,18,3,,05018,https://www.ringsdb.com/card/05018,https://www.ringsdb.com/bundles/cards/05018.png
+225,Hirluin the Fair,Hero,TRUE,Leadership,8,,1,1,1,4,Outlands.,Ranged.,Against the Shadow,The Steward's Fear,1,1,,06001,https://www.ringsdb.com/card/06001,https://www.ringsdb.com/bundles/cards/06001.png
+226,Warrior of Lossarnach,Ally,FALSE,Leadership,,2,1,1,1,1,Outlands.,,Against the Shadow,The Steward's Fear,2,3,,06002,https://www.ringsdb.com/card/06002,https://www.ringsdb.com/bundles/cards/06002.png
+227,Gaining Strength,Event,FALSE,Leadership,,0,,,,,,,Against the Shadow,The Steward's Fear,3,3,,06003,https://www.ringsdb.com/card/06003,https://www.ringsdb.com/bundles/cards/06003.png
+228,Knights of the Swan,Ally,FALSE,Tactics,,1,0,0,0,1,Outlands.,,Against the Shadow,The Steward's Fear,4,3,,06004,https://www.ringsdb.com/card/06004,https://www.ringsdb.com/bundles/cards/06004.png
+229,Gondorian Shield,Attachment,FALSE,Tactics,,1,,,,,Armor. Item.,Restricted.,Against the Shadow,The Steward's Fear,5,3,,06005,https://www.ringsdb.com/card/06005,https://www.ringsdb.com/bundles/cards/06005.png
+230,Ethir Swordsman,Ally,FALSE,Spirit,,2,1,1,1,1,Outlands.,,Against the Shadow,The Steward's Fear,6,3,,06006,https://www.ringsdb.com/card/06006,https://www.ringsdb.com/bundles/cards/06006.png
+231,Ring of Barahir,Attachment,TRUE,Spirit,,1,,,,,Artifact. Item. Ring.,,Against the Shadow,The Steward's Fear,7,3,,06007,https://www.ringsdb.com/card/06007,https://www.ringsdb.com/bundles/cards/06007.png
+232,Anfalas Herdsman,Ally,FALSE,Lore,,1,0,0,0,1,Outlands.,,Against the Shadow,The Steward's Fear,8,3,,06008,https://www.ringsdb.com/card/06008,https://www.ringsdb.com/bundles/cards/06008.png
+233,Mithrandir's Advice,Event,FALSE,Lore,,1,,,,,,,Against the Shadow,The Steward's Fear,9,3,,06009,https://www.ringsdb.com/card/06009,https://www.ringsdb.com/bundles/cards/06009.png
+234,A Good Harvest,Event,FALSE,Neutral,,0,,,,,,,Against the Shadow,The Steward's Fear,10,3,,06010,https://www.ringsdb.com/card/06010,https://www.ringsdb.com/bundles/cards/06010.png
+235,Mirlonde,Hero,TRUE,Lore,8,,2,2,1,3,Silvan.,,Against the Shadow,The Drúadan Forest,32,1,,06032,https://www.ringsdb.com/card/06032,https://www.ringsdb.com/bundles/cards/06032.png
+236,Forlong,Ally,TRUE,Leadership,,3,1,1,1,3,Outlands.,,Against the Shadow,The Drúadan Forest,33,3,,06033,https://www.ringsdb.com/card/06033,https://www.ringsdb.com/bundles/cards/06033.png
+237,Strength of Arms,Event,FALSE,Leadership,,2,,,,,,,Against the Shadow,The Drúadan Forest,34,3,,06034,https://www.ringsdb.com/card/06034,https://www.ringsdb.com/bundles/cards/06034.png
+238,Mighty Prowess,Attachment,FALSE,Tactics,,1,,,,,Skill.,,Against the Shadow,The Drúadan Forest,35,3,,06035,https://www.ringsdb.com/card/06035,https://www.ringsdb.com/bundles/cards/06035.png
+239,Trained for War,Event,FALSE,Tactics,,2,,,,,,,Against the Shadow,The Drúadan Forest,36,3,,06036,https://www.ringsdb.com/card/06036,https://www.ringsdb.com/bundles/cards/06036.png
+240,Silvan Refugee,Ally,FALSE,Spirit,,1,2,0,0,1,Silvan. Scout.,,Against the Shadow,The Drúadan Forest,37,3,,06037,https://www.ringsdb.com/card/06037,https://www.ringsdb.com/bundles/cards/06037.png
+241,Against the Shadow,Event,FALSE,Spirit,,2,,,,,,,Against the Shadow,The Drúadan Forest,38,3,,06038,https://www.ringsdb.com/card/06038,https://www.ringsdb.com/bundles/cards/06038.png
+242,Harbor Master,Ally,FALSE,Lore,,3,1,2,0,2,Noldor.,,Against the Shadow,The Drúadan Forest,39,3,,06039,https://www.ringsdb.com/card/06039,https://www.ringsdb.com/bundles/cards/06039.png
+243,Advance Warning,Event,FALSE,Lore,,2,,,,,,,Against the Shadow,The Drúadan Forest,40,3,,06040,https://www.ringsdb.com/card/06040,https://www.ringsdb.com/bundles/cards/06040.png
+244,White Tower Watchman,Ally,FALSE,Neutral,,3,1,0,2,3,Gondor.,,Against the Shadow,The Drúadan Forest,41,3,,06041,https://www.ringsdb.com/card/06041,https://www.ringsdb.com/bundles/cards/06041.png
+245,Pippin,Hero,TRUE,Spirit,6,,2,1,1,2,Hobbit.,,Against the Shadow,Encounter at Amon Dîn,56,1,,06056,https://www.ringsdb.com/card/06056,https://www.ringsdb.com/bundles/cards/06056.png
+246,Denethor,Ally,TRUE,Leadership,,4,3,1,2,3,Gondor. Noble.,,Against the Shadow,Encounter at Amon Dîn,57,3,,06057,https://www.ringsdb.com/card/06057,https://www.ringsdb.com/bundles/cards/06057.png
+247,Lord of Morthond,Attachment,TRUE,Leadership,,1,,,,,Title.,,Against the Shadow,Encounter at Amon Dîn,58,3,,06058,https://www.ringsdb.com/card/06058,https://www.ringsdb.com/bundles/cards/06058.png
+248,Book of Eldacar,Attachment,TRUE,Tactics,,4,,,,,Record.,,Against the Shadow,Encounter at Amon Dîn,59,3,,06059,https://www.ringsdb.com/card/06059,https://www.ringsdb.com/bundles/cards/06059.png
+249,Gondorian Discipline,Event,FALSE,Tactics,,0,,,,,Gondor.,,Against the Shadow,Encounter at Amon Dîn,60,3,,06060,https://www.ringsdb.com/card/06060,https://www.ringsdb.com/bundles/cards/06060.png
+250,Minas Tirith Lampwright,Ally,FALSE,Spirit,,1,0,0,1,1,Gondor. Craftsman.,,Against the Shadow,Encounter at Amon Dîn,61,3,,06061,https://www.ringsdb.com/card/06061,https://www.ringsdb.com/bundles/cards/06061.png
+251,Small Target,Event,FALSE,Spirit,,1,,,,,,,Against the Shadow,Encounter at Amon Dîn,62,3,,06062,https://www.ringsdb.com/card/06062,https://www.ringsdb.com/bundles/cards/06062.png
+252,Ithilien Archer,Ally,FALSE,Lore,,3,1,2,1,2,Gondor. Ranger.,Ranged.,Against the Shadow,Encounter at Amon Dîn,63,3,,06063,https://www.ringsdb.com/card/06063,https://www.ringsdb.com/bundles/cards/06063.png
+253,Ithilien Pit,Attachment,FALSE,Lore,,1,,,,,Trap.,,Against the Shadow,Encounter at Amon Dîn,64,3,,06064,https://www.ringsdb.com/card/06064,https://www.ringsdb.com/bundles/cards/06064.png
+254,Hobbit-sense,Event,FALSE,Neutral,,2,,,,,,,Against the Shadow,Encounter at Amon Dîn,65,3,,06065,https://www.ringsdb.com/card/06065,https://www.ringsdb.com/bundles/cards/06065.png
+255,Faramir,Hero,TRUE,Lore,11,,2,2,2,5,Gondor. Ranger. Noble.,Ranged.,Against the Shadow,Assault on Osgiliath,81,1,,06081,https://www.ringsdb.com/card/06081,https://www.ringsdb.com/bundles/cards/06081.png
+256,Sword of Morthond,Attachment,TRUE,Leadership,,1,,,,,Item. Weapon.,,Against the Shadow,Assault on Osgiliath,82,3,,06082,https://www.ringsdb.com/card/06082,https://www.ringsdb.com/bundles/cards/06082.png
+257,Men of the West,Event,FALSE,Leadership,,X,,,,,Outlands.,,Against the Shadow,Assault on Osgiliath,83,3,,06083,https://www.ringsdb.com/card/06083,https://www.ringsdb.com/bundles/cards/06083.png
+258,Knight of Minas Tirith,Ally,FALSE,Tactics,,3,0,3,1,3,Gondor. Warrior.,,Against the Shadow,Assault on Osgiliath,84,3,,06084,https://www.ringsdb.com/card/06084,https://www.ringsdb.com/bundles/cards/06084.png
+259,Gondorian Fire,Attachment,FALSE,Tactics,,0,,,,,Gondor.,,Against the Shadow,Assault on Osgiliath,85,3,,06085,https://www.ringsdb.com/card/06085,https://www.ringsdb.com/bundles/cards/06085.png
+260,Pelargir Shipwright,Ally,FALSE,Spirit,,3,0,1,1,3,Gondor. Craftsman.,,Against the Shadow,Assault on Osgiliath,86,3,,06086,https://www.ringsdb.com/card/06086,https://www.ringsdb.com/bundles/cards/06086.png
+261,Map of Earnil,Attachment,TRUE,Spirit,,4,,,,,Record.,,Against the Shadow,Assault on Osgiliath,87,3,,06087,https://www.ringsdb.com/card/06087,https://www.ringsdb.com/bundles/cards/06087.png
+262,Ranger Bow,Attachment,FALSE,Lore,,1,,,,,Weapon.,Restricted.,Against the Shadow,Assault on Osgiliath,88,3,,06088,https://www.ringsdb.com/card/06088,https://www.ringsdb.com/bundles/cards/06088.png
+263,Forest Patrol,Event,FALSE,Lore,,1,,,,,,,Against the Shadow,Assault on Osgiliath,89,3,,06089,https://www.ringsdb.com/card/06089,https://www.ringsdb.com/bundles/cards/06089.png
+264,Palantir,Attachment,TRUE,Neutral,,1,,,,,Artifact. Item.,,Against the Shadow,Assault on Osgiliath,90,3,,06090,https://www.ringsdb.com/card/06090,https://www.ringsdb.com/bundles/cards/06090.png
+265,Caldara,Hero,TRUE,Spirit,8,,2,1,2,3,Gondor.,,Against the Shadow,The Blood of Gondor,107,1,,06107,https://www.ringsdb.com/card/06107,https://www.ringsdb.com/bundles/cards/06107.png
+266,Squire of the Citadel,Ally,FALSE,Leadership,,1,0,0,1,1,Gondor.,,Against the Shadow,The Blood of Gondor,108,3,,06108,https://www.ringsdb.com/card/06108,https://www.ringsdb.com/bundles/cards/06108.png
+267,Tome of Atanatar,Attachment,TRUE,Leadership,,4,,,,,Record.,,Against the Shadow,The Blood of Gondor,109,3,,06109,https://www.ringsdb.com/card/06109,https://www.ringsdb.com/bundles/cards/06109.png
+268,Guthlaf,Ally,TRUE,Tactics,,3,1,1,2,2,Rohan.,Sentinel.,Against the Shadow,The Blood of Gondor,110,3,,06110,https://www.ringsdb.com/card/06110,https://www.ringsdb.com/bundles/cards/06110.png
+269,The Hammer-stroke,Event,FALSE,Tactics,,2,,,,,,,Against the Shadow,The Blood of Gondor,111,3,,06111,https://www.ringsdb.com/card/06111,https://www.ringsdb.com/bundles/cards/06111.png
+270,Emery,Ally,TRUE,Spirit,,3,1,1,2,2,Gondor.,,Against the Shadow,The Blood of Gondor,112,3,,06112,https://www.ringsdb.com/card/06112,https://www.ringsdb.com/bundles/cards/06112.png
+271,Children of the Sea,Event,FALSE,Spirit,,0,,,,,,,Against the Shadow,The Blood of Gondor,113,3,,06113,https://www.ringsdb.com/card/06113,https://www.ringsdb.com/bundles/cards/06113.png
+272,Anborn,Ally,TRUE,Lore,,4,1,3,1,3,Gondor. Ranger.,,Against the Shadow,The Blood of Gondor,114,3,,06114,https://www.ringsdb.com/card/06114,https://www.ringsdb.com/bundles/cards/06114.png
+273,Poisoned Stakes,Attachment,FALSE,Lore,,2,,,,,Trap.,,Against the Shadow,The Blood of Gondor,115,3,,06115,https://www.ringsdb.com/card/06115,https://www.ringsdb.com/bundles/cards/06115.png
+274,Well-Equipped,Event,FALSE,Neutral,,0,,,,,,,Against the Shadow,The Blood of Gondor,116,3,,06116,https://www.ringsdb.com/card/06116,https://www.ringsdb.com/bundles/cards/06116.png
+275,Théoden,Hero,TRUE,Tactics,12,,2,3,2,4,Rohan. Noble. Warrior.,Sentinel.,Against the Shadow,The Morgul Vale,134,1,,06134,https://www.ringsdb.com/card/06134,https://www.ringsdb.com/bundles/cards/06134.png
+276,Pelargir Ship Captain,Ally,FALSE,Leadership,,2,1,1,0,2,Gondor.,,Against the Shadow,The Morgul Vale,135,3,,06135,https://www.ringsdb.com/card/06135,https://www.ringsdb.com/bundles/cards/06135.png
+277,Visionary Leadership,Attachment,TRUE,Leadership,,2,,,,,Skill.,,Against the Shadow,The Morgul Vale,136,3,,06136,https://www.ringsdb.com/card/06136,https://www.ringsdb.com/bundles/cards/06136.png
+278,Spear of the Mark,Attachment,FALSE,Tactics,,1,,,,,Item. Weapon.,Restricted.,Against the Shadow,The Morgul Vale,137,3,,06137,https://www.ringsdb.com/card/06137,https://www.ringsdb.com/bundles/cards/06137.png
+279,Forth Eorlingas!,Event,FALSE,Tactics,,2,,,,,,,Against the Shadow,The Morgul Vale,138,3,,06138,https://www.ringsdb.com/card/06138,https://www.ringsdb.com/bundles/cards/06138.png
+280,Steed of the Mark,Attachment,FALSE,Spirit,,1,,,,,Mount.,,Against the Shadow,The Morgul Vale,139,3,,06139,https://www.ringsdb.com/card/06139,https://www.ringsdb.com/bundles/cards/06139.png
+281,Lay of Nimrodel,Event,FALSE,Spirit,,1,,,,,Song.,,Against the Shadow,The Morgul Vale,140,3,,06140,https://www.ringsdb.com/card/06140,https://www.ringsdb.com/bundles/cards/06140.png
+282,Ered Nimrais Prospector,Ally,FALSE,Lore,,2,1,0,1,2,Dwarf.,,Against the Shadow,The Morgul Vale,141,3,,06141,https://www.ringsdb.com/card/06141,https://www.ringsdb.com/bundles/cards/06141.png
+283,Scroll of Isildur,Attachment,TRUE,Lore,,4,,,,,Record.,,Against the Shadow,The Morgul Vale,142,3,,06142,https://www.ringsdb.com/card/06142,https://www.ringsdb.com/bundles/cards/06142.png
+284,Hidden Cache,Event,FALSE,Neutral,,0,,,,,,,Against the Shadow,The Morgul Vale,143,3,,06143,https://www.ringsdb.com/card/06143,https://www.ringsdb.com/bundles/cards/06143.png
+285,Éomer,Hero,TRUE,Tactics,10,,1,3,2,4,Rohan. Noble. Warrior.,,The Voice of Isengard,The Voice of Isengard,1,1,,07001,https://www.ringsdb.com/card/07001,https://www.ringsdb.com/bundles/cards/07001.png
+286,Gríma,Hero,TRUE,Lore,9,,2,1,2,3,Rohan. Isengard.,Doomed.,The Voice of Isengard,The Voice of Isengard,2,1,,07002,https://www.ringsdb.com/card/07002,https://www.ringsdb.com/bundles/cards/07002.png
+287,Saruman,Ally,TRUE,Neutral,,3,3,5,4,4,Istari. Isengard.,Doomed.,The Voice of Isengard,The Voice of Isengard,3,3,,07003,https://www.ringsdb.com/card/07003,https://www.ringsdb.com/bundles/cards/07003.png
+288,Orthanc Guard,Ally,FALSE,Leadership,,2,1,0,2,2,Isengard.,Doomed.,The Voice of Isengard,The Voice of Isengard,4,3,,07004,https://www.ringsdb.com/card/07004,https://www.ringsdb.com/bundles/cards/07004.png
+289,Isengard Messenger,Ally,FALSE,Lore,,2,1,0,1,2,Isengard.,Doomed.,The Voice of Isengard,The Voice of Isengard,5,3,,07005,https://www.ringsdb.com/card/07005,https://www.ringsdb.com/bundles/cards/07005.png
+290,Westfold Outrider,Ally,FALSE,Tactics,,2,0,2,1,2,Rohan. Scout.,,The Voice of Isengard,The Voice of Isengard,6,3,,07006,https://www.ringsdb.com/card/07006,https://www.ringsdb.com/bundles/cards/07006.png
+291,Westfold Horse-breeder,Ally,FALSE,Spirit,,1,1,0,0,1,Rohan.,,The Voice of Isengard,The Voice of Isengard,7,3,,07007,https://www.ringsdb.com/card/07007,https://www.ringsdb.com/bundles/cards/07007.png
+292,Rohan Warhorse,Attachment,FALSE,Tactics,,1,,,,,Mount.,Restricted.,The Voice of Isengard,The Voice of Isengard,8,3,,07008,https://www.ringsdb.com/card/07008,https://www.ringsdb.com/bundles/cards/07008.png
+293,Silver Lamp,Attachment,FALSE,Spirit,,2,,,,,Item.,,The Voice of Isengard,The Voice of Isengard,9,3,,07009,https://www.ringsdb.com/card/07009,https://www.ringsdb.com/bundles/cards/07009.png
+294,Keys of Orthanc,Attachment,TRUE,Neutral,,1,,,,,Item.,Doomed.,The Voice of Isengard,The Voice of Isengard,10,3,,07010,https://www.ringsdb.com/card/07010,https://www.ringsdb.com/bundles/cards/07010.png
+295,Legacy of Númenor,Event,FALSE,Leadership,,0,,,,,,Doomed.,The Voice of Isengard,The Voice of Isengard,11,3,,07011,https://www.ringsdb.com/card/07011,https://www.ringsdb.com/bundles/cards/07011.png
+296,Deep Knowledge,Event,FALSE,Lore,,0,,,,,,Doomed.,The Voice of Isengard,The Voice of Isengard,12,3,,07012,https://www.ringsdb.com/card/07012,https://www.ringsdb.com/bundles/cards/07012.png
+297,The Wizards's Voice,Event,FALSE,Tactics,,0,,,,,Spell.,Doomed.,The Voice of Isengard,The Voice of Isengard,13,3,,07013,https://www.ringsdb.com/card/07013,https://www.ringsdb.com/bundles/cards/07013.png
+298,Power of Orthanc,Event,FALSE,Spirit,,0,,,,,Spell.,Doomed.,The Voice of Isengard,The Voice of Isengard,14,3,,07014,https://www.ringsdb.com/card/07014,https://www.ringsdb.com/bundles/cards/07014.png
+299,The Seeing-stone,Event,FALSE,Neutral,,0,,,,,,Doomed.,The Voice of Isengard,The Voice of Isengard,15,3,,07015,https://www.ringsdb.com/card/07015,https://www.ringsdb.com/bundles/cards/07015.png
+300,Celeborn,Hero,TRUE,Leadership,11,,3,2,2,4,Silvan. Noble.,,The Ring-maker,The Dunland Trap,1,1,,08001,https://www.ringsdb.com/card/08001,https://www.ringsdb.com/bundles/cards/08001.png
+301,Naith Guide,Ally,FALSE,Leadership,,2,1,1,0,1,Silvan. Scout.,,The Ring-maker,The Dunland Trap,2,3,,08002,https://www.ringsdb.com/card/08002,https://www.ringsdb.com/bundles/cards/08002.png
+302,Swift and Silent,Event,FALSE,Leadership,,1,,,,,,,The Ring-maker,The Dunland Trap,3,3,,08003,https://www.ringsdb.com/card/08003,https://www.ringsdb.com/bundles/cards/08003.png
+303,Firefoot,Attachment,TRUE,Tactics,,2,,,,,Mount.,Restricted.,The Ring-maker,The Dunland Trap,4,3,,08004,https://www.ringsdb.com/card/08004,https://www.ringsdb.com/bundles/cards/08004.png
+304,Close Call,Event,FALSE,Tactics,,0,,,,,,Doomed.,The Ring-maker,The Dunland Trap,5,3,,08005,https://www.ringsdb.com/card/08005,https://www.ringsdb.com/bundles/cards/08005.png
+305,Blue Mountain Trader,Ally,FALSE,Spirit,,2,1,0,1,2,Dwarf.,,The Ring-maker,The Dunland Trap,6,3,,08006,https://www.ringsdb.com/card/08006,https://www.ringsdb.com/bundles/cards/08006.png
+306,The Fall of Gil-Galad,Attachment,FALSE,Spirit,,1,,,,,Song.,,The Ring-maker,The Dunland Trap,7,3,,08007,https://www.ringsdb.com/card/08007,https://www.ringsdb.com/bundles/cards/08007.png
+307,Ithilien Lookout,Ally,FALSE,Lore,,3,1,2,0,2,Gondor. Ranger.,Secrecy.,The Ring-maker,The Dunland Trap,8,3,,08008,https://www.ringsdb.com/card/08008,https://www.ringsdb.com/bundles/cards/08008.png
+308,The Tree People,Event,FALSE,Lore,,0,,,,,,,The Ring-maker,The Dunland Trap,9,3,,08009,https://www.ringsdb.com/card/08009,https://www.ringsdb.com/bundles/cards/08009.png
+309,The White Council,Event,FALSE,Neutral,,X,,,,,,,The Ring-maker,The Dunland Trap,10,3,,08010,https://www.ringsdb.com/card/08010,https://www.ringsdb.com/bundles/cards/08010.png
+310,Idraen,Hero,TRUE,Spirit,11,,2,3,2,4,Dúnedain. Ranger. Scout.,,The Ring-maker,The Three Trials,25,1,,08025,https://www.ringsdb.com/card/08025,https://www.ringsdb.com/bundles/cards/08025.png
+311,Rivendell Scout,Ally,FALSE,Leadership,,2,1,1,0,2,Noldor. Scout.,Secrecy.,The Ring-maker,The Three Trials,26,3,,08026,https://www.ringsdb.com/card/08026,https://www.ringsdb.com/bundles/cards/08026.png
+312,Feigned Voices,Event,FALSE,Leadership,,0,,,,,,,The Ring-maker,The Three Trials,27,3,,08027,https://www.ringsdb.com/card/08027,https://www.ringsdb.com/bundles/cards/08027.png
+313,Rúmil,Ally,TRUE,Tactics,,4,2,2,1,2,Silvan. Scout.,Ranged.,The Ring-maker,The Three Trials,28,3,,08028,https://www.ringsdb.com/card/08028,https://www.ringsdb.com/bundles/cards/08028.png
+314,Elven Mail,Attachment,FALSE,Tactics,,2,,,,,Item. Armor.,Restricted. Sentinel.,The Ring-maker,The Three Trials,29,3,,08029,https://www.ringsdb.com/card/08029,https://www.ringsdb.com/bundles/cards/08029.png
+315,Greyflood Wanderer,Ally,FALSE,Spirit,,3,2,1,0,2,Dúnedain. Scout.,Doomed.,The Ring-maker,The Three Trials,30,3,,08030,https://www.ringsdb.com/card/08030,https://www.ringsdb.com/bundles/cards/08030.png
+316,Warden of Arnor,Attachment,TRUE,Spirit,,1,,,,,Title.,,The Ring-maker,The Three Trials,31,3,,08031,https://www.ringsdb.com/card/08031,https://www.ringsdb.com/bundles/cards/08031.png
+317,Message from Elrond,Event,FALSE,Lore,,0,,,,,,,The Ring-maker,The Three Trials,32,3,,08032,https://www.ringsdb.com/card/08032,https://www.ringsdb.com/bundles/cards/08032.png
+318,Noiseless Movement,Event,FALSE,Lore,,1,,,,,,,The Ring-maker,The Three Trials,33,3,,08033,https://www.ringsdb.com/card/08033,https://www.ringsdb.com/bundles/cards/08033.png
+319,Leaf Brooch,Attachment,FALSE,Neutral,,1,,,,,Item.,Secrecy.,The Ring-maker,The Three Trials,34,3,,08034,https://www.ringsdb.com/card/08034,https://www.ringsdb.com/bundles/cards/08034.png
+320,Haldir of Lórien,Hero,TRUE,Lore,9,,2,3,1,3,Silvan. Ranger. Scout.,Ranged.,The Ring-maker,Trouble in Tharbad,56,1,,08056,https://www.ringsdb.com/card/08056,https://www.ringsdb.com/bundles/cards/08056.png
+321,Herald of Anórien,Ally,FALSE,Leadership,,2,1,0,1,1,Gondor.,Doomed.,The Ring-maker,Trouble in Tharbad,57,3,,08057,https://www.ringsdb.com/card/08057,https://www.ringsdb.com/bundles/cards/08057.png
+322,O Lórien!,Attachment,TRUE,Leadership,,1,,,,,Song.,,The Ring-maker,Trouble in Tharbad,58,3,,08058,https://www.ringsdb.com/card/08058,https://www.ringsdb.com/bundles/cards/08058.png
+323,Gwaihir,Ally,TRUE,Tactics,,5,2,3,1,4,Creature. Eagle.,,The Ring-maker,Trouble in Tharbad,59,3,,08059,https://www.ringsdb.com/card/08059,https://www.ringsdb.com/bundles/cards/08059.png
+324,Pursuing the Enemy,Event,FALSE,Tactics,,0,,,,,,,The Ring-maker,Trouble in Tharbad,60,3,,08060,https://www.ringsdb.com/card/08060,https://www.ringsdb.com/bundles/cards/08060.png
+325,Courage Awakened,Event,FALSE,Spirit,,1,,,,,,,The Ring-maker,Trouble in Tharbad,61,3,,08061,https://www.ringsdb.com/card/08061,https://www.ringsdb.com/bundles/cards/08061.png
+326,Free to Choose,Event,FALSE,Spirit,,0,,,,,,,The Ring-maker,Trouble in Tharbad,62,3,,08062,https://www.ringsdb.com/card/08062,https://www.ringsdb.com/bundles/cards/08062.png
+327,Galadhrim Minstrel,Ally,FALSE,Lore,,2,1,0,0,1,Silvan. Minstrel.,,The Ring-maker,Trouble in Tharbad,63,3,,08063,https://www.ringsdb.com/card/08063,https://www.ringsdb.com/bundles/cards/08063.png
+328,Lembas,Attachment,FALSE,Lore,,1,,,,,Item.,,The Ring-maker,Trouble in Tharbad,64,3,,08064,https://www.ringsdb.com/card/08064,https://www.ringsdb.com/bundles/cards/08064.png
+329,Defender of the Naith,Ally,FALSE,Neutral,,3,0,1,2,2,Silvan. Warrior.,Sentinel.,The Ring-maker,Trouble in Tharbad,65,3,,08065,https://www.ringsdb.com/card/08065,https://www.ringsdb.com/bundles/cards/08065.png
+330,Mablung,Hero,TRUE,Tactics,10,,2,2,2,4,Gondor. Ranger.,,The Ring-maker,The Nîn-in-Eilph,84,1,,08084,https://www.ringsdb.com/card/08084,https://www.ringsdb.com/bundles/cards/08084.png
+331,Follow Me!,Event,FALSE,Leadership,,1,,,,,,,The Ring-maker,The Nîn-in-Eilph,85,3,,08085,https://www.ringsdb.com/card/08085,https://www.ringsdb.com/bundles/cards/08085.png
+332,Tighten Our Belts,Event,FALSE,Leadership,,0,,,,,,,The Ring-maker,The Nîn-in-Eilph,86,3,,08086,https://www.ringsdb.com/card/08086,https://www.ringsdb.com/bundles/cards/08086.png
+333,Galadhon Archer,Ally,FALSE,Tactics,,2,0,2,0,1,Silvan. Warrior.,Ranged.,The Ring-maker,The Nîn-in-Eilph,87,3,,08087,https://www.ringsdb.com/card/08087,https://www.ringsdb.com/bundles/cards/08087.png
+334,Bow of the Galadhrim,Attachment,FALSE,Tactics,,1,,,,,Item. Weapon.,Ranged. Restricted.,The Ring-maker,The Nîn-in-Eilph,88,3,,08088,https://www.ringsdb.com/card/08088,https://www.ringsdb.com/bundles/cards/08088.png
+335,Celduin Traveler,Ally,FALSE,Spirit,,3,2,0,1,2,Dale. Scout.,Secrecy.,The Ring-maker,The Nîn-in-Eilph,89,3,,08089,https://www.ringsdb.com/card/08089,https://www.ringsdb.com/bundles/cards/08089.png
+336,Island Amid Perils,Event,FALSE,Spirit,,0,,,,,,,The Ring-maker,The Nîn-in-Eilph,90,3,,08090,https://www.ringsdb.com/card/08090,https://www.ringsdb.com/bundles/cards/08090.png
+337,Mirkwood Pioneer,Ally,FALSE,Lore,,2,1,0,0,2,Woodman.,Doomed.,The Ring-maker,The Nîn-in-Eilph,91,3,,08091,https://www.ringsdb.com/card/08091,https://www.ringsdb.com/bundles/cards/08091.png
+338,Wingfoot,Attachment,TRUE,Lore,,1,,,,,Title.,,The Ring-maker,The Nîn-in-Eilph,92,3,,08092,https://www.ringsdb.com/card/08092,https://www.ringsdb.com/bundles/cards/08092.png
+339,Defender of the West,Attachment,TRUE,Neutral,,1,,,,,Title.,,The Ring-maker,The Nîn-in-Eilph,93,3,,08093,https://www.ringsdb.com/card/08093,https://www.ringsdb.com/bundles/cards/08093.png
+340,Galadriel,Hero,TRUE,Spirit,9,,4,0,0,4,Noldor. Noble.,,The Ring-maker,Celebrimbor's Secret,112,1,,08112,https://www.ringsdb.com/card/08112,https://www.ringsdb.com/bundles/cards/08112.png
+341,Heir of Mardil,Attachment,TRUE,Leadership,,1,,,,,Title.,,The Ring-maker,Celebrimbor's Secret,113,3,,08113,https://www.ringsdb.com/card/08113,https://www.ringsdb.com/bundles/cards/08113.png
+342,Orophin,Ally,TRUE,Leadership,,3,2,2,0,2,Silvan. Scout.,Ranged.,The Ring-maker,Celebrimbor's Secret,114,3,,08114,https://www.ringsdb.com/card/08114,https://www.ringsdb.com/bundles/cards/08114.png
+343,Henneth Annûn Guard,Ally,FALSE,Tactics,,3,0,2,2,2,Gondor. Warrior.,Doomed. Sentinel.,The Ring-maker,Celebrimbor's Secret,115,3,,08115,https://www.ringsdb.com/card/08115,https://www.ringsdb.com/bundles/cards/08115.png
+344,Charge of the Rohirrim,Event,FALSE,Tactics,,2,,,,,,,The Ring-maker,Celebrimbor's Secret,116,3,,08116,https://www.ringsdb.com/card/08116,https://www.ringsdb.com/bundles/cards/08116.png
+345,Galadriel's Handmaiden,Ally,FALSE,Spirit,,2,2,0,1,1,Silvan.,,The Ring-maker,Celebrimbor's Secret,117,3,,08117,https://www.ringsdb.com/card/08117,https://www.ringsdb.com/bundles/cards/08117.png
+346,Mirror of Galadriel,Attachment,TRUE,Spirit,,1,,,,,Artifact. Item.,,The Ring-maker,Celebrimbor's Secret,118,3,,08118,https://www.ringsdb.com/card/08118,https://www.ringsdb.com/bundles/cards/08118.png
+347,Wandering Ent,Ally,FALSE,Lore,,2,2,2,2,3,Ent.,,The Ring-maker,Celebrimbor's Secret,119,3,,08119,https://www.ringsdb.com/card/08119,https://www.ringsdb.com/bundles/cards/08119.png
+348,Cloak of Lórien,Attachment,FALSE,Lore,,1,,,,,Item.,,The Ring-maker,Celebrimbor's Secret,120,3,,08120,https://www.ringsdb.com/card/08120,https://www.ringsdb.com/bundles/cards/08120.png
+349,Nenya,Attachment,TRUE,Neutral,,1,,,,,Artifact. Ring.,,The Ring-maker,Celebrimbor's Secret,121,3,,08121,https://www.ringsdb.com/card/08121,https://www.ringsdb.com/bundles/cards/08121.png
+350,Erkenbrand,Hero,TRUE,Leadership,10,,1,2,3,4,Rohan. Warrior.,Sentinel.,The Ring-maker,The Antlered Crown,137,1,,08137,https://www.ringsdb.com/card/08137,https://www.ringsdb.com/bundles/cards/08137.png
+351,Warden of Helm's Deep,Ally,FALSE,Leadership,,3,0,1,3,2,Rohan. Warrior.,Sentinel.,The Ring-maker,The Antlered Crown,138,3,,08138,https://www.ringsdb.com/card/08138,https://www.ringsdb.com/bundles/cards/08138.png
+352,The Day's Rising,Attachment,TRUE,Leadership,,1,,,,,Song.,Sentinel.,The Ring-maker,The Antlered Crown,139,3,,08139,https://www.ringsdb.com/card/08139,https://www.ringsdb.com/bundles/cards/08139.png
+353,Captain of Gondor,Attachment,TRUE,Tactics,,1,,,,,Title.,,The Ring-maker,The Antlered Crown,140,3,,08140,https://www.ringsdb.com/card/08140,https://www.ringsdb.com/bundles/cards/08140.png
+354,Booming Ent,Ally,FALSE,Tactics,,2,0,2,2,3,Ent.,,The Ring-maker,The Antlered Crown,141,3,,08141,https://www.ringsdb.com/card/08141,https://www.ringsdb.com/bundles/cards/08141.png
+355,Ride Them Down,Event,FALSE,Spirit,,2,,,,,,,The Ring-maker,The Antlered Crown,142,3,,08142,https://www.ringsdb.com/card/08142,https://www.ringsdb.com/bundles/cards/08142.png
+356,Shadows Give Way,Event,FALSE,Spirit,,3,,,,,,,The Ring-maker,The Antlered Crown,143,3,,08143,https://www.ringsdb.com/card/08143,https://www.ringsdb.com/bundles/cards/08143.png
+357,Don't Be Hasty!,Event,FALSE,Lore,,0,,,,,,,The Ring-maker,The Antlered Crown,144,3,,08144,https://www.ringsdb.com/card/08144,https://www.ringsdb.com/bundles/cards/08144.png
+358,Waters of Nimrodel,Event,FALSE,Lore,,3,,,,,,Doomed.,The Ring-maker,The Antlered Crown,145,3,,08145,https://www.ringsdb.com/card/08145,https://www.ringsdb.com/bundles/cards/08145.png
+359,Treebeard,Ally,TRUE,Neutral,,4,2,4,3,5,Ent.,,The Ring-maker,The Antlered Crown,146,3,,08146,https://www.ringsdb.com/card/08146,https://www.ringsdb.com/bundles/cards/08146.png
+360,Aragorn,Hero,TRUE,Tactics,12,,2,3,2,5,Dúnedain. Ranger. Warrior.,,The Lost Realm,The Lost Realm,1,1,,09001,https://www.ringsdb.com/card/09001,https://www.ringsdb.com/bundles/cards/09001.png
+361,Halbarad,Hero,TRUE,Leadership,10,,2,2,2,4,Dúnedain. Ranger.,,The Lost Realm,The Lost Realm,2,1,,09002,https://www.ringsdb.com/card/09002,https://www.ringsdb.com/bundles/cards/09002.png
+362,Weather Hills Watchman,Ally,FALSE,Leadership,,2,1,1,0,2,Dúnedain.,,The Lost Realm,The Lost Realm,3,3,,09003,https://www.ringsdb.com/card/09003,https://www.ringsdb.com/bundles/cards/09003.png
+363,Dúnedain Hunter,Ally,FALSE,Tactics,,0,1,3,1,3,Dúnedain. Ranger.,,The Lost Realm,The Lost Realm,4,3,,09004,https://www.ringsdb.com/card/09004,https://www.ringsdb.com/bundles/cards/09004.png
+364,Sarn Ford Sentry,Ally,FALSE,Lore,,3,2,1,0,2,Dúnedain. Scout.,,The Lost Realm,The Lost Realm,5,3,,09005,https://www.ringsdb.com/card/09005,https://www.ringsdb.com/bundles/cards/09005.png
+365,Warden of Annúminas,Ally,FALSE,Spirit,,4,0,2,2,3,Dúnedain. Ranger.,,The Lost Realm,The Lost Realm,6,3,,09006,https://www.ringsdb.com/card/09006,https://www.ringsdb.com/bundles/cards/09006.png
+366,Ranger Summons,Event,FALSE,Leadership,,1,,,,,Signal.,,The Lost Realm,The Lost Realm,7,3,,09007,https://www.ringsdb.com/card/09007,https://www.ringsdb.com/bundles/cards/09007.png
+367,Tireless Hunters,Event,FALSE,Tactics,,1,,,,,,,The Lost Realm,The Lost Realm,8,3,,09008,https://www.ringsdb.com/card/09008,https://www.ringsdb.com/bundles/cards/09008.png
+368,Expert Trackers,Event,FALSE,Lore,,0,,,,,,,The Lost Realm,The Lost Realm,9,3,,09009,https://www.ringsdb.com/card/09009,https://www.ringsdb.com/bundles/cards/09009.png
+369,Heir of Valandil,Attachment,TRUE,Leadership,,2,,,,,Title.,,The Lost Realm,The Lost Realm,10,3,,09010,https://www.ringsdb.com/card/09010,https://www.ringsdb.com/bundles/cards/09010.png
+370,Athelas,Attachment,FALSE,Lore,,1,,,,,Item.,,The Lost Realm,The Lost Realm,11,3,,09011,https://www.ringsdb.com/card/09011,https://www.ringsdb.com/bundles/cards/09011.png
+371,Secret Vigil,Attachment,FALSE,Tactics,,1,,,,,Condition.,,The Lost Realm,The Lost Realm,12,3,,09012,https://www.ringsdb.com/card/09012,https://www.ringsdb.com/bundles/cards/09012.png
+372,Star Brooch,Attachment,FALSE,Spirit,,1,,,,,Item.,,The Lost Realm,The Lost Realm,13,3,,09013,https://www.ringsdb.com/card/09013,https://www.ringsdb.com/bundles/cards/09013.png
+373,Gather Information,Player Side Quest,FALSE,Neutral,,0,,,,,,,The Lost Realm,The Lost Realm,14,3,,09014,https://www.ringsdb.com/card/09014,https://www.ringsdb.com/bundles/cards/09014.png
+374,Ranger of the North,Ally,FALSE,Neutral,,-,2,2,2,3,Dúnedain. Ranger.,Ranged. Sentinel.,The Lost Realm,The Lost Realm,15,3,,09015,https://www.ringsdb.com/card/09015,https://www.ringsdb.com/bundles/cards/09015.png
+375,Merry,Hero,TRUE,Spirit,6,,2,1,1,2,Hobbit.,,Angmar Awakened,The Wastes of Eriador,1,1,,10001,https://www.ringsdb.com/card/10001,https://www.ringsdb.com/bundles/cards/10001.png
+376,Ingold,Ally,TRUE,Leadership,,3,0,1,1,3,Gondor.,,Angmar Awakened,The Wastes of Eriador,2,3,,10002,https://www.ringsdb.com/card/10002,https://www.ringsdb.com/bundles/cards/10002.png
+377,Rallying Cry,Event,FALSE,Leadership,,2,,,,,,Valour.,Angmar Awakened,The Wastes of Eriador,3,3,,10003,https://www.ringsdb.com/card/10003,https://www.ringsdb.com/bundles/cards/10003.png
+378,Honour Guard,Ally,FALSE,Tactics,,2,0,0,1,3,Gondor. Warrior.,Valour.,Angmar Awakened,The Wastes of Eriador,4,3,,10004,https://www.ringsdb.com/card/10004,https://www.ringsdb.com/bundles/cards/10004.png
+379,Raven-winged Helm,Attachment,FALSE,Tactics,,2,,,,,Item. Armor.,Sentinel.,Angmar Awakened,The Wastes of Eriador,5,3,,10005,https://www.ringsdb.com/card/10005,https://www.ringsdb.com/bundles/cards/10005.png
+380,Curious Brandybuck,Ally,FALSE,Spirit,,2,2,0,0,2,Hobbit.,,Angmar Awakened,The Wastes of Eriador,6,3,,10006,https://www.ringsdb.com/card/10006,https://www.ringsdb.com/bundles/cards/10006.png
+381,Hobbit Pony,Attachment,FALSE,Spirit,,0,,,,,Mount.,Restricted.,Angmar Awakened,The Wastes of Eriador,7,3,,10007,https://www.ringsdb.com/card/10007,https://www.ringsdb.com/bundles/cards/10007.png
+382,East Road Ranger,Ally,FALSE,Lore,,3,1,2,1,3,Dúnedain. Scout.,,Angmar Awakened,The Wastes of Eriador,8,3,,10008,https://www.ringsdb.com/card/10008,https://www.ringsdb.com/bundles/cards/10008.png
+383,Scout Ahead,Player Side Quest,FALSE,Lore,,0,,,,,,,Angmar Awakened,The Wastes of Eriador,9,3,,10009,https://www.ringsdb.com/card/10009,https://www.ringsdb.com/bundles/cards/10009.png
+384,Ranger of Cardolan,Ally,FALSE,Neutral,,4,2,2,2,3,Dúnedain. Ranger.,,Angmar Awakened,The Wastes of Eriador,10,3,,10010,https://www.ringsdb.com/card/10010,https://www.ringsdb.com/bundles/cards/10010.png
+385,Rossiel,Hero,TRUE,Lore,8,,2,1,2,3,Silvan.,,Angmar Awakened,Escape from Mount Gram,28,1,,10028,https://www.ringsdb.com/card/10028,https://www.ringsdb.com/bundles/cards/10028.png
+386,Veteran of Osgiliath,Ally,FALSE,Leadership,,3,1,2,1,2,Gondor. Warrior.,,Angmar Awakened,Escape from Mount Gram,29,3,,10029,https://www.ringsdb.com/card/10029,https://www.ringsdb.com/bundles/cards/10029.png
+387,Descendants of Kings,Event,FALSE,Leadership,,1,,,,,,,Angmar Awakened,Escape from Mount Gram,30,3,,10030,https://www.ringsdb.com/card/10030,https://www.ringsdb.com/bundles/cards/10030.png
+388,Derndingle Warrior,Ally,FALSE,Tactics,,2,1,1,2,3,Ent. Warrior.,Sentinel.,Angmar Awakened,Escape from Mount Gram,31,3,,10031,https://www.ringsdb.com/card/10031,https://www.ringsdb.com/bundles/cards/10031.png
+389,Boomed and Trumpeted,Event,FALSE,Tactics,,1,,,,,Ent.,,Angmar Awakened,Escape from Mount Gram,32,3,,10032,https://www.ringsdb.com/card/10032,https://www.ringsdb.com/bundles/cards/10032.png
+390,Elven Jeweler,Ally,FALSE,Spirit,,2,1,1,1,2,Noldor. Craftsman.,,Angmar Awakened,Escape from Mount Gram,33,3,,10033,https://www.ringsdb.com/card/10033,https://www.ringsdb.com/bundles/cards/10033.png
+391,Double Back,Player Side Quest,FALSE,Spirit,,0,,,,,,,Angmar Awakened,Escape from Mount Gram,34,3,,10034,https://www.ringsdb.com/card/10034,https://www.ringsdb.com/bundles/cards/10034.png
+392,Leave No Trace,Event,FALSE,Lore,,1,,,,,,,Angmar Awakened,Escape from Mount Gram,35,3,,10035,https://www.ringsdb.com/card/10035,https://www.ringsdb.com/bundles/cards/10035.png
+393,Distant Stars,Event,FALSE,Lore,,0,,,,,,,Angmar Awakened,Escape from Mount Gram,36,3,,10036,https://www.ringsdb.com/card/10036,https://www.ringsdb.com/bundles/cards/10036.png
+394,Keen as Lances,Event,FALSE,Neutral,,5,,,,,,,Angmar Awakened,Escape from Mount Gram,37,3,,10037,https://www.ringsdb.com/card/10037,https://www.ringsdb.com/bundles/cards/10037.png
+395,Dori,Hero,TRUE,Tactics,10,,1,2,2,5,Dwarf.,Sentinel.,Angmar Awakened,Across the Ettenmoors,54,1,,10054,https://www.ringsdb.com/card/10054,https://www.ringsdb.com/bundles/cards/10054.png
+396,Ranger Provisions,Attachment,FALSE,Leadership,,1,,,,,Item.,,Angmar Awakened,Across the Ettenmoors,55,3,,10055,https://www.ringsdb.com/card/10055,https://www.ringsdb.com/bundles/cards/10055.png
+397,Dúnedain Message,Event,FALSE,Leadership,,1,,,,,Signal.,,Angmar Awakened,Across the Ettenmoors,56,3,,10056,https://www.ringsdb.com/card/10056,https://www.ringsdb.com/bundles/cards/10056.png
+398,Longbeard Sentry,Ally,FALSE,Tactics,,3,0,1,2,3,Dwarf. Warrior.,Sentinel.,Angmar Awakened,Across the Ettenmoors,57,3,,10057,https://www.ringsdb.com/card/10057,https://www.ringsdb.com/bundles/cards/10057.png
+399,Delay the Enemy,Player Side Quest,FALSE,Tactics,,0,,,,,,,Angmar Awakened,Across the Ettenmoors,58,3,,10058,https://www.ringsdb.com/card/10058,https://www.ringsdb.com/bundles/cards/10058.png
+400,Steed of Imladris,Attachment,FALSE,Spirit,,1,,,,,Mount.,Restricted.,Angmar Awakened,Across the Ettenmoors,59,3,,10059,https://www.ringsdb.com/card/10059,https://www.ringsdb.com/bundles/cards/10059.png
+401,Fair and Perilous,Event,FALSE,Spirit,,1,,,,,,,Angmar Awakened,Across the Ettenmoors,60,3,,10060,https://www.ringsdb.com/card/10060,https://www.ringsdb.com/bundles/cards/10060.png
+402,Wellinghall Preserver,Ally,FALSE,Lore,,3,3,2,2,3,Ent.,,Angmar Awakened,Across the Ettenmoors,61,3,,10061,https://www.ringsdb.com/card/10061,https://www.ringsdb.com/bundles/cards/10061.png
+403,None Return,Event,FALSE,Lore,,1,,,,,,,Angmar Awakened,Across the Ettenmoors,62,3,,10062,https://www.ringsdb.com/card/10062,https://www.ringsdb.com/bundles/cards/10062.png
+404,Hope Rekindled,Event,FALSE,Neutral,,0,,,,,Song.,Valour.,Angmar Awakened,Across the Ettenmoors,63,3,,10063,https://www.ringsdb.com/card/10063,https://www.ringsdb.com/bundles/cards/10063.png
+405,Erestor,Hero,TRUE,Lore,10,,2,2,2,4,Noldor.,,Angmar Awakened,The Treachery of Rhudaur,84,1,,10084,https://www.ringsdb.com/card/10084,https://www.ringsdb.com/bundles/cards/10084.png
+406,Reinforcements,Event,FALSE,Leadership,,3,,,,,,,Angmar Awakened,The Treachery of Rhudaur,85,3,,10085,https://www.ringsdb.com/card/10085,https://www.ringsdb.com/bundles/cards/10085.png
+407,Send for Aid,Player Side Quest,FALSE,Leadership,,1,,,,,,,Angmar Awakened,The Treachery of Rhudaur,86,3,,10086,https://www.ringsdb.com/card/10086,https://www.ringsdb.com/bundles/cards/10086.png
+408,Elven Spear,Attachment,FALSE,Tactics,,0,,,,,Item. Weapon.,Restricted.,Angmar Awakened,The Treachery of Rhudaur,87,3,,10087,https://www.ringsdb.com/card/10087,https://www.ringsdb.com/bundles/cards/10087.png
+409,Horn's Cry,Event,FALSE,Tactics,,2,,,,,,Valour.,Angmar Awakened,The Treachery of Rhudaur,88,3,,10088,https://www.ringsdb.com/card/10088,https://www.ringsdb.com/bundles/cards/10088.png
+410,Galadhrim Weaver,Ally,FALSE,Spirit,,1,1,0,0,1,Silvan. Craftsman.,,Angmar Awakened,The Treachery of Rhudaur,89,3,,10089,https://www.ringsdb.com/card/10089,https://www.ringsdb.com/bundles/cards/10089.png
+411,Silver Harp,Attachment,FALSE,Spirit,,2,,,,,Item. Instrument.,Restricted.,Angmar Awakened,The Treachery of Rhudaur,90,3,,10090,https://www.ringsdb.com/card/10090,https://www.ringsdb.com/bundles/cards/10090.png
+412,Galdor of the Havens,Ally,TRUE,Lore,,4,2,2,1,4,Noldor.,,Angmar Awakened,The Treachery of Rhudaur,91,3,,10091,https://www.ringsdb.com/card/10091,https://www.ringsdb.com/bundles/cards/10091.png
+413,The Door is Closed!,Event,FALSE,Lore,,1,,,,,,,Angmar Awakened,The Treachery of Rhudaur,92,3,,10092,https://www.ringsdb.com/card/10092,https://www.ringsdb.com/bundles/cards/10092.png
+414,Elf-friend,Attachment,FALSE,Neutral,,1,,,,,Title.,,Angmar Awakened,The Treachery of Rhudaur,93,3,,10093,https://www.ringsdb.com/card/10093,https://www.ringsdb.com/bundles/cards/10093.png
+415,Amarthiúl,Hero,TRUE,Leadership,10,,1,3,3,3,Dúnedain. Ranger. Warrior.,,Angmar Awakened,The Battle of Carn Dûm,115,1,,10115,https://www.ringsdb.com/card/10115,https://www.ringsdb.com/bundles/cards/10115.png
+416,Guardian of Arnor,Ally,FALSE,Leadership,,3,1,1,1,3,Dúnedain. Ranger.,Sentinel.,Angmar Awakened,The Battle of Carn Dûm,116,3,,10116,https://www.ringsdb.com/card/10116,https://www.ringsdb.com/bundles/cards/10116.png
+417,Doom Hangs Still,Event,FALSE,Leadership,,5,,,,,,Valour.,Angmar Awakened,The Battle of Carn Dûm,117,3,,10117,https://www.ringsdb.com/card/10117,https://www.ringsdb.com/bundles/cards/10117.png
+418,Beechbone,Ally,TRUE,Tactics,,3,2,2,1,4,Ent.,,Angmar Awakened,The Battle of Carn Dûm,118,3,,10118,https://www.ringsdb.com/card/10118,https://www.ringsdb.com/bundles/cards/10118.png
+419,Hold Your Ground!,Event,FALSE,Tactics,,1,,,,,,Sentinel. Valour.,Angmar Awakened,The Battle of Carn Dûm,119,3,,10119,https://www.ringsdb.com/card/10119,https://www.ringsdb.com/bundles/cards/10119.png
+420,Lindir,Ally,TRUE,Spirit,,3,2,1,2,2,Noldor.,,Angmar Awakened,The Battle of Carn Dûm,120,3,,10120,https://www.ringsdb.com/card/10120,https://www.ringsdb.com/bundles/cards/10120.png
+421,Lords of the Eldar,Event,FALSE,Spirit,,3,,,,,,,Angmar Awakened,The Battle of Carn Dûm,121,3,,10121,https://www.ringsdb.com/card/10121,https://www.ringsdb.com/bundles/cards/10121.png
+422,The Long Defeat,Attachment,FALSE,Lore,,1,,,,,Condition.,,Angmar Awakened,The Battle of Carn Dûm,122,3,,10122,https://www.ringsdb.com/card/10122,https://www.ringsdb.com/bundles/cards/10122.png
+423,Quick Ears,Event,FALSE,Lore,,1,,,,,,,Angmar Awakened,The Battle of Carn Dûm,123,3,,10123,https://www.ringsdb.com/card/10123,https://www.ringsdb.com/bundles/cards/10123.png
+424,Favor of the Valar,Attachment,FALSE,Neutral,,3,,,,,Condition.,,Angmar Awakened,The Battle of Carn Dûm,124,3,,10124,https://www.ringsdb.com/card/10124,https://www.ringsdb.com/bundles/cards/10124.png
+425,Arwen Undómiel,Hero,TRUE,Spirit,9,,3,1,2,3,Noldor. Noble.,,Angmar Awakened,The Dread Realm,140,1,,10140,https://www.ringsdb.com/card/10140,https://www.ringsdb.com/bundles/cards/10140.png
+426,Éothain,Ally,TRUE,Leadership,,4,2,2,1,3,Rohan. Warrior.,,Angmar Awakened,The Dread Realm,141,3,,10141,https://www.ringsdb.com/card/10141,https://www.ringsdb.com/bundles/cards/10141.png
+427,Sword of Númenor,Attachment,FALSE,Leadership,,1,,,,,Item. Weapon.,Restricted.,Angmar Awakened,The Dread Realm,142,3,,10142,https://www.ringsdb.com/card/10142,https://www.ringsdb.com/bundles/cards/10142.png
+428,Fornost Bowman,Ally,FALSE,Tactics,,3,1,1,1,3,Dúnedain. Ranger.,Ranged.,Angmar Awakened,The Dread Realm,143,3,,10143,https://www.ringsdb.com/card/10143,https://www.ringsdb.com/bundles/cards/10143.png
+429,Hour of Wrath,Event,FALSE,Tactics,,4,,,,,,Valour.,Angmar Awakened,The Dread Realm,144,3,,10144,https://www.ringsdb.com/card/10144,https://www.ringsdb.com/bundles/cards/10144.png
+430,Elven-light,Event,FALSE,Spirit,,1,,,,,,,Angmar Awakened,The Dread Realm,145,3,,10145,https://www.ringsdb.com/card/10145,https://www.ringsdb.com/bundles/cards/10145.png
+431,Tale of Tinúviel,Event,FALSE,Spirit,,1,,,,,Song.,,Angmar Awakened,The Dread Realm,146,3,,10146,https://www.ringsdb.com/card/10146,https://www.ringsdb.com/bundles/cards/10146.png
+432,Galadhrim Healer,Ally,FALSE,Lore,,2,1,0,1,1,Silvan. Healer.,,Angmar Awakened,The Dread Realm,147,3,,10147,https://www.ringsdb.com/card/10147,https://www.ringsdb.com/bundles/cards/10147.png
+433,Weather-stained Cloak,Attachment,FALSE,Lore,,0,,,,,Item.,,Angmar Awakened,The Dread Realm,148,3,,10148,https://www.ringsdb.com/card/10148,https://www.ringsdb.com/bundles/cards/10148.png
+434,Sword-thain,Attachment,TRUE,Neutral,,4,,,,,Title.,,Angmar Awakened,The Dread Realm,149,3,,10149,https://www.ringsdb.com/card/10149,https://www.ringsdb.com/bundles/cards/10149.png
+435,Círdan the Shipwright,Hero,TRUE,Spirit,12,,4,2,2,4,Noldor. Noble.,,The Grey Havens,The Grey Havens,1,1,,11001,https://www.ringsdb.com/card/11001,https://www.ringsdb.com/bundles/cards/11001.png
+436,Galdor of the Havens,Hero,TRUE,Lore,9,,2,2,1,4,Noldor.,,The Grey Havens,The Grey Havens,2,1,,11002,https://www.ringsdb.com/card/11002,https://www.ringsdb.com/bundles/cards/11002.png
+437,Mithlond Sea-watcher,Ally,FALSE,Tactics,,2,1,1,0,2,Noldor. Warrior.,Ranged.,The Grey Havens,The Grey Havens,3,3,,11003,https://www.ringsdb.com/card/11003,https://www.ringsdb.com/bundles/cards/11003.png
+438,Skyward Volley,Event,FALSE,Tactics,,2,,,,,,Ranged.,The Grey Havens,The Grey Havens,4,3,,11004,https://www.ringsdb.com/card/11004,https://www.ringsdb.com/bundles/cards/11004.png
+439,Grappling Hook,Attachment,FALSE,Tactics,,1,,,,,Item.,,The Grey Havens,The Grey Havens,5,3,,11005,https://www.ringsdb.com/card/11005,https://www.ringsdb.com/bundles/cards/11005.png
+440,Warden of the Havens,Ally,FALSE,Leadership,,2,0,1,1,3,Noldor. Warrior.,Sentinel.,The Grey Havens,The Grey Havens,6,3,,11006,https://www.ringsdb.com/card/11006,https://www.ringsdb.com/bundles/cards/11006.png
+441,Anchor Watch,Event,FALSE,Leadership,,2,,,,,,,The Grey Havens,The Grey Havens,7,3,,11007,https://www.ringsdb.com/card/11007,https://www.ringsdb.com/bundles/cards/11007.png
+442,Mariner's Compass,Attachment,FALSE,Leadership,,1,,,,,Item.,,The Grey Havens,The Grey Havens,8,3,,11008,https://www.ringsdb.com/card/11008,https://www.ringsdb.com/bundles/cards/11008.png
+443,Lindon Navigator,Ally,FALSE,Lore,,2,2,1,1,2,Noldor. Scout.,,The Grey Havens,The Grey Havens,9,3,,11009,https://www.ringsdb.com/card/11009,https://www.ringsdb.com/bundles/cards/11009.png
+444,The Evening Star,Event,FALSE,Lore,,2,,,,,,,The Grey Havens,The Grey Havens,10,3,,11010,https://www.ringsdb.com/card/11010,https://www.ringsdb.com/bundles/cards/11010.png
+445,Explorer's Almanac,Attachment,FALSE,Lore,,0,,,,,Item.,,The Grey Havens,The Grey Havens,11,3,,11011,https://www.ringsdb.com/card/11011,https://www.ringsdb.com/bundles/cards/11011.png
+446,Sailor of Lune,Ally,FALSE,Spirit,,2,1,1,0,2,Noldor. Scout.,,The Grey Havens,The Grey Havens,12,3,,11012,https://www.ringsdb.com/card/11012,https://www.ringsdb.com/bundles/cards/11012.png
+447,Elwing's Flight,Event,FALSE,Spirit,,2,,,,,,,The Grey Havens,The Grey Havens,13,3,,11013,https://www.ringsdb.com/card/11013,https://www.ringsdb.com/bundles/cards/11013.png
+448,"To the Sea, to the Sea!",Attachment,TRUE,Spirit,,1,,,,,Song.,,The Grey Havens,The Grey Havens,14,3,,11014,https://www.ringsdb.com/card/11014,https://www.ringsdb.com/bundles/cards/11014.png
+449,Narya,Attachment,TRUE,Neutral,,2,,,,,Ring. Artifact.,,The Grey Havens,The Grey Havens,15,3,,11015,https://www.ringsdb.com/card/11015,https://www.ringsdb.com/bundles/cards/11015.png
+450,Denethor,Hero,TRUE,Leadership,8,,1,1,3,3,Gondor. Noble. Steward.,,Dream-chaser,Flight of the Stormcaller,1,1,,12001,https://www.ringsdb.com/card/12001,https://www.ringsdb.com/bundles/cards/12001.png
+451,Rod of the Steward,Attachment,TRUE,Leadership,,0,,,,,Item.,,Dream-chaser,Flight of the Stormcaller,2,3,,12002,https://www.ringsdb.com/card/12002,https://www.ringsdb.com/bundles/cards/12002.png
+452,In Service of the Steward,Attachment,FALSE,Leadership,,1,,,,,Title.,,Dream-chaser,Flight of the Stormcaller,3,3,,12003,https://www.ringsdb.com/card/12003,https://www.ringsdb.com/bundles/cards/12003.png
+453,Azain Silverbeard,Ally,TRUE,Tactics,,3,0,3,2,2,Dwarf. Warrior.,,Dream-chaser,Flight of the Stormcaller,4,3,,12004,https://www.ringsdb.com/card/12004,https://www.ringsdb.com/bundles/cards/12004.png
+454,Last Stand,Event,FALSE,Tactics,,0,,,,,,,Dream-chaser,Flight of the Stormcaller,5,3,,12005,https://www.ringsdb.com/card/12005,https://www.ringsdb.com/bundles/cards/12005.png
+455,Glorfindel,Ally,TRUE,Spirit,,5,3,3,1,4,Noldor. Noble. Warrior.,,Dream-chaser,Flight of the Stormcaller,6,3,,12006,https://www.ringsdb.com/card/12006,https://www.ringsdb.com/bundles/cards/12006.png
+456,Tides of Fate,Event,FALSE,Spirit,,0,,,,,,,Dream-chaser,Flight of the Stormcaller,7,3,,12007,https://www.ringsdb.com/card/12007,https://www.ringsdb.com/bundles/cards/12007.png
+457,Imladris Caregiver,Ally,FALSE,Lore,,2,1,0,1,2,Noldor. Healer.,,Dream-chaser,Flight of the Stormcaller,8,3,,12008,https://www.ringsdb.com/card/12008,https://www.ringsdb.com/bundles/cards/12008.png
+458,Heed the Dream,Event,FALSE,Lore,,1,,,,,,,Dream-chaser,Flight of the Stormcaller,9,3,,12009,https://www.ringsdb.com/card/12009,https://www.ringsdb.com/bundles/cards/12009.png
+459,Guardian of Rivendell,Ally,FALSE,Neutral,,3,1,2,3,3,Noldor. Warrior.,,Dream-chaser,Flight of the Stormcaller,10,3,,12010,https://www.ringsdb.com/card/12010,https://www.ringsdb.com/bundles/cards/12010.png
+460,Vanish from Sight,Event,FALSE,Neutral,,0,,,,,,,Dream-chaser,Flight of the Stormcaller,11,3,,12011,https://www.ringsdb.com/card/12011,https://www.ringsdb.com/bundles/cards/12011.png
+461,Lanwyn,Hero,TRUE,Spirit,9,,2,3,1,3,Dale. Scout.,Ranged.,Dream-chaser,The Thing in the Depths,30,1,,12030,https://www.ringsdb.com/card/12030,https://www.ringsdb.com/bundles/cards/12030.png
+462,Eldahir,Ally,TRUE,Leadership,,4,1,2,2,3,Dúnedain. Noble.,Sentinel.,Dream-chaser,The Thing in the Depths,31,3,,12031,https://www.ringsdb.com/card/12031,https://www.ringsdb.com/bundles/cards/12031.png
+463,Captain's Wisdom,Event,FALSE,Leadership,,0,,,,,,,Dream-chaser,The Thing in the Depths,32,3,,12032,https://www.ringsdb.com/card/12032,https://www.ringsdb.com/bundles/cards/12032.png
+464,Master Ironsmith,Ally,FALSE,Tactics,,3,1,1,1,2,Gondor. Craftsman.,,Dream-chaser,The Thing in the Depths,33,3,,12033,https://www.ringsdb.com/card/12033,https://www.ringsdb.com/bundles/cards/12033.png
+465,Raiment of War,Attachment,FALSE,Tactics,,2,,,,,Item. Armor. Weapon.,Restricted.,Dream-chaser,The Thing in the Depths,34,3,,12034,https://www.ringsdb.com/card/12034,https://www.ringsdb.com/bundles/cards/12034.png
+466,Sam Gamgee,Ally,TRUE,Spirit,,3,2,1,1,2,Hobbit.,,Dream-chaser,The Thing in the Depths,35,3,,12035,https://www.ringsdb.com/card/12035,https://www.ringsdb.com/bundles/cards/12035.png
+467,Elevenses,Event,FALSE,Spirit,,1,,,,,,,Dream-chaser,The Thing in the Depths,36,3,,12036,https://www.ringsdb.com/card/12036,https://www.ringsdb.com/bundles/cards/12036.png
+468,Mirkwood Explorer,Ally,FALSE,Lore,,3,2,1,0,2,Woodman. Scout.,,Dream-chaser,The Thing in the Depths,37,3,,12037,https://www.ringsdb.com/card/12037,https://www.ringsdb.com/bundles/cards/12037.png
+469,Guarded Ceaselessly,Attachment,FALSE,Lore,,0,,,,,Condition.,,Dream-chaser,The Thing in the Depths,38,3,,12038,https://www.ringsdb.com/card/12038,https://www.ringsdb.com/bundles/cards/12038.png
+470,Elfhelm,Hero,TRUE,Leadership,10,,2,2,2,4,Rohan. Scout. Warrior.,,Dream-chaser,Temple of the Deceived,57,1,,12057,https://www.ringsdb.com/card/12057,https://www.ringsdb.com/bundles/cards/12057.png
+471,Ceorl,Ally,TRUE,Leadership,,2,1,2,0,2,Rohan. Scout.,,Dream-chaser,Temple of the Deceived,58,3,,12058,https://www.ringsdb.com/card/12058,https://www.ringsdb.com/bundles/cards/12058.png
+472,Armored Destrier,Attachment,FALSE,Leadership,,2,,,,,Mount.,Restricted. Sentinel.,Dream-chaser,Temple of the Deceived,59,3,,12059,https://www.ringsdb.com/card/12059,https://www.ringsdb.com/bundles/cards/12059.png
+473,Déorwine,Ally,TRUE,Tactics,,4,0,1,3,3,Rohan. Warrior.,Sentinel.,Dream-chaser,Temple of the Deceived,60,3,,12060,https://www.ringsdb.com/card/12060,https://www.ringsdb.com/bundles/cards/12060.png
+474,Revealed in Wrath,Event,FALSE,Tactics,,1,,,,,,,Dream-chaser,Temple of the Deceived,61,3,,12061,https://www.ringsdb.com/card/12061,https://www.ringsdb.com/bundles/cards/12061.png
+475,Rhovanion Outrider,Ally,FALSE,Spirit,,3,1,2,1,2,Dale. Scout.,,Dream-chaser,Temple of the Deceived,62,3,,12062,https://www.ringsdb.com/card/12062,https://www.ringsdb.com/bundles/cards/12062.png
+476,Scouting Party,Event,FALSE,Spirit,,2,,,,,,,Dream-chaser,Temple of the Deceived,63,3,,12063,https://www.ringsdb.com/card/12063,https://www.ringsdb.com/bundles/cards/12063.png
+477,Entangling Nets,Attachment,FALSE,Lore,,1,,,,,Trap.,,Dream-chaser,Temple of the Deceived,64,3,,12064,https://www.ringsdb.com/card/12064,https://www.ringsdb.com/bundles/cards/12064.png
+478,Arrows from the Trees,Event,FALSE,Lore,,1,,,,,,,Dream-chaser,Temple of the Deceived,65,3,,12065,https://www.ringsdb.com/card/12065,https://www.ringsdb.com/bundles/cards/12065.png
+479,Ered Luin Miner,Ally,FALSE,Neutral,,3,1,1,1,2,Dwarf.,,Dream-chaser,Temple of the Deceived,66,3,,12066,https://www.ringsdb.com/card/12066,https://www.ringsdb.com/bundles/cards/12066.png
+480,Argalad,Hero,TRUE,Lore,9,,2,2,1,4,Silvan. Scout.,Ranged.,Dream-chaser,The Drowned Ruins,82,1,,12082,https://www.ringsdb.com/card/12082,https://www.ringsdb.com/bundles/cards/12082.png
+481,Dwarven Sellsword,Ally,FALSE,Leadership,,1,2,2,2,3,Dwarf. Warrior.,,Dream-chaser,The Drowned Ruins,83,3,,12083,https://www.ringsdb.com/card/12083,https://www.ringsdb.com/bundles/cards/12083.png
+482,Dúnedain Remedy,Attachment,FALSE,Leadership,,0,,,,,Signal.,,Dream-chaser,The Drowned Ruins,84,3,,12084,https://www.ringsdb.com/card/12084,https://www.ringsdb.com/bundles/cards/12084.png
+483,Marksman of Lórien,Ally,FALSE,Tactics,,3,0,3,0,2,Silvan. Warrior.,Ranged.,Dream-chaser,The Drowned Ruins,85,3,,12085,https://www.ringsdb.com/card/12085,https://www.ringsdb.com/bundles/cards/12085.png
+484,Battle-fury,Event,FALSE,Tactics,,1,,,,,,,Dream-chaser,The Drowned Ruins,86,3,,12086,https://www.ringsdb.com/card/12086,https://www.ringsdb.com/bundles/cards/12086.png
+485,Woodland Courier,Ally,FALSE,Spirit,,2,1,1,0,1,Silvan. Scout.,,Dream-chaser,The Drowned Ruins,87,3,,12087,https://www.ringsdb.com/card/12087,https://www.ringsdb.com/bundles/cards/12087.png
+486,Hithlain,Attachment,FALSE,Spirit,,1,,,,,Item.,,Dream-chaser,The Drowned Ruins,88,3,,12088,https://www.ringsdb.com/card/12088,https://www.ringsdb.com/bundles/cards/12088.png
+487,Robin Smallburrow,Ally,TRUE,Lore,,2,2,0,1,2,Hobbit. Shirriff.,,Dream-chaser,The Drowned Ruins,89,3,,12089,https://www.ringsdb.com/card/12089,https://www.ringsdb.com/bundles/cards/12089.png
+488,Interrogation,Event,FALSE,Lore,,1,,,,,,,Dream-chaser,The Drowned Ruins,90,3,,12090,https://www.ringsdb.com/card/12090,https://www.ringsdb.com/bundles/cards/12090.png
+489,Strider,Attachment,TRUE,Neutral,,1,,,,,Title.,,Dream-chaser,The Drowned Ruins,91,3,,12091,https://www.ringsdb.com/card/12091,https://www.ringsdb.com/bundles/cards/12091.png
+490,Na'asiyah,Hero,TRUE,Tactics,8,,1,2,2,4,Corsair. Warrior.,,Dream-chaser,A Storm on Cobas Haven,109,1,,12109,https://www.ringsdb.com/card/12109,https://www.ringsdb.com/bundles/cards/12109.png
+491,Rune-master,Attachment,TRUE,Leadership,,1,,,,,Title.,,Dream-chaser,A Storm on Cobas Haven,110,3,,12110,https://www.ringsdb.com/card/12110,https://www.ringsdb.com/bundles/cards/12110.png
+492,Terrible to Behold,Event,FALSE,Leadership,,1,,,,,,,Dream-chaser,A Storm on Cobas Haven,111,3,,12111,https://www.ringsdb.com/card/12111,https://www.ringsdb.com/bundles/cards/12111.png
+493,Veteran Sword-elf,Ally,FALSE,Tactics,,3,1,1,1,3,Noldor. Warrior.,,Dream-chaser,A Storm on Cobas Haven,112,3,,12112,https://www.ringsdb.com/card/12112,https://www.ringsdb.com/bundles/cards/12112.png
+494,Vigilant Guard,Attachment,FALSE,Tactics,,3,,,,,Skill.,,Dream-chaser,A Storm on Cobas Haven,113,3,,12113,https://www.ringsdb.com/card/12113,https://www.ringsdb.com/bundles/cards/12113.png
+495,Knife-work,Event,FALSE,Tactics,,1,,,,,,,Dream-chaser,A Storm on Cobas Haven,114,3,,12114,https://www.ringsdb.com/card/12114,https://www.ringsdb.com/bundles/cards/12114.png
+496,Linhir Sea-captain,Ally,FALSE,Spirit,,3,2,0,1,2,Gondor.,,Dream-chaser,A Storm on Cobas Haven,115,3,,12115,https://www.ringsdb.com/card/12115,https://www.ringsdb.com/bundles/cards/12115.png
+497,Windfola,Attachment,TRUE,Spirit,,1,,,,,Mount.,Restricted.,Dream-chaser,A Storm on Cobas Haven,116,3,,12116,https://www.ringsdb.com/card/12116,https://www.ringsdb.com/bundles/cards/12116.png
+498,Ioreth,Ally,TRUE,Lore,,0,0,0,0,1,Gondor. Healer.,,Dream-chaser,A Storm on Cobas Haven,117,3,,12117,https://www.ringsdb.com/card/12117,https://www.ringsdb.com/bundles/cards/12117.png
+499,The Houses of Healing,Event,FALSE,Lore,,5,,,,,,,Dream-chaser,A Storm on Cobas Haven,118,3,,12118,https://www.ringsdb.com/card/12118,https://www.ringsdb.com/bundles/cards/12118.png
+500,Justice Shall Be Done,Event,FALSE,Neutral,,0,,,,,,,Dream-chaser,A Storm on Cobas Haven,119,3,,12119,https://www.ringsdb.com/card/12119,https://www.ringsdb.com/bundles/cards/12119.png
+501,Prince Imrahil,Hero,TRUE,Tactics,11,,2,3,2,4,Gondor. Noble. Warrior.,,Dream-chaser,The City of Corsairs,138,1,,12138,https://www.ringsdb.com/card/12138,https://www.ringsdb.com/bundles/cards/12138.png
+502,Knight of the White Tower,Ally,FALSE,Leadership,,4,2,2,3,3,Gondor. Warrior.,,Dream-chaser,The City of Corsairs,139,3,,12139,https://www.ringsdb.com/card/12139,https://www.ringsdb.com/bundles/cards/12139.png
+503,Hold the Line,Event,FALSE,Leadership,,0,,,,,,,Dream-chaser,The City of Corsairs,140,3,,12140,https://www.ringsdb.com/card/12140,https://www.ringsdb.com/bundles/cards/12140.png
+504,Soldier of Dol Amroth,Ally,FALSE,Tactics,,2,0,1,1,2,Gondor. Warrior.,,Dream-chaser,The City of Corsairs,141,3,,12141,https://www.ringsdb.com/card/12141,https://www.ringsdb.com/bundles/cards/12141.png
+505,Súlien,Ally,TRUE,Spirit,,4,3,0,2,2,Dúnedain. Scout.,,Dream-chaser,The City of Corsairs,142,3,,12142,https://www.ringsdb.com/card/12142,https://www.ringsdb.com/bundles/cards/12142.png
+506,Inspiring Presence,Event,FALSE,Spirit,,2,,,,,,,Dream-chaser,The City of Corsairs,143,3,,12143,https://www.ringsdb.com/card/12143,https://www.ringsdb.com/bundles/cards/12143.png
+507,Guardian of Ithilien,Ally,FALSE,Lore,,1,0,1,0,1,Gondor. Ranger.,,Dream-chaser,The City of Corsairs,144,3,,12144,https://www.ringsdb.com/card/12144,https://www.ringsdb.com/bundles/cards/12144.png
+508,Ranger Spear,Attachment,FALSE,Lore,,1,,,,,Item. Weapon.,Restricted.,Dream-chaser,The City of Corsairs,145,3,,12145,https://www.ringsdb.com/card/12145,https://www.ringsdb.com/bundles/cards/12145.png
+509,Prince of Dol Amroth,Attachment,TRUE,Neutral,,3,,,,,Title.,,Dream-chaser,The City of Corsairs,146,3,,12146,https://www.ringsdb.com/card/12146,https://www.ringsdb.com/bundles/cards/12146.png
+510,Gimli,Hero,TRUE,Leadership,11,,2,2,2,5,Dwarf. Noble. Warrior.,Sentinel.,The Sands of Harad,The Sands of Harad,1,1,,16001,https://www.ringsdb.com/card/16001,https://www.ringsdb.com/bundles/cards/16001.png
+511,Legolas,Hero,TRUE,Spirit,9,,1,3,1,4,Silvan. Noble. Scout.,Ranged.,The Sands of Harad,The Sands of Harad,2,1,,16002,https://www.ringsdb.com/card/16002,https://www.ringsdb.com/bundles/cards/16002.png
+512,Greenwood Archer,Ally,FALSE,Leadership,,2,0,2,0,1,Silvan.,Ranged.,The Sands of Harad,The Sands of Harad,3,3,,16003,https://www.ringsdb.com/card/16003,https://www.ringsdb.com/bundles/cards/16003.png
+513,Erebor Guard,Ally,FALSE,Spirit,,4,0,1,2,3,Dwarf. Warrior.,Sentinel.,The Sands of Harad,The Sands of Harad,4,3,,16004,https://www.ringsdb.com/card/16004,https://www.ringsdb.com/bundles/cards/16004.png
+514,Halfling Bounder,Ally,FALSE,Lore,,2,1,1,0,2,Hobbit.,,The Sands of Harad,The Sands of Harad,5,3,,16005,https://www.ringsdb.com/card/16005,https://www.ringsdb.com/bundles/cards/16005.png
+515,Vigilant Dúnadan,Ally,FALSE,Tactics,,4,1,3,2,3,Dúnedain. Ranger.,,The Sands of Harad,The Sands of Harad,6,3,,16006,https://www.ringsdb.com/card/16006,https://www.ringsdb.com/bundles/cards/16006.png
+516,Unlikely Friendship,Event,FALSE,Leadership,,0,,,,,,,The Sands of Harad,The Sands of Harad,7,3,,16007,https://www.ringsdb.com/card/16007,https://www.ringsdb.com/bundles/cards/16007.png
+517,Well Warned,Event,FALSE,Spirit,,0,,,,,,,The Sands of Harad,The Sands of Harad,8,3,,16008,https://www.ringsdb.com/card/16008,https://www.ringsdb.com/bundles/cards/16008.png
+518,Dour Handed,Event,FALSE,Tactics,,1,,,,,,,The Sands of Harad,The Sands of Harad,9,3,,16009,https://www.ringsdb.com/card/16009,https://www.ringsdb.com/bundles/cards/16009.png
+519,Dwarven Shield,Attachment,FALSE,Leadership,,2,,,,,Item. Armor.,Restricted.,The Sands of Harad,The Sands of Harad,10,3,,16010,https://www.ringsdb.com/card/16010,https://www.ringsdb.com/bundles/cards/16010.png
+520,Mirkwood Long-knife,Attachment,FALSE,Spirit,,2,,,,,Item. Weapon.,Restricted.,The Sands of Harad,The Sands of Harad,11,3,,16011,https://www.ringsdb.com/card/16011,https://www.ringsdb.com/bundles/cards/16011.png
+521,The Road Goes Ever On,Attachment,FALSE,Lore,,0,,,,,Song.,,The Sands of Harad,The Sands of Harad,12,3,,16012,https://www.ringsdb.com/card/16012,https://www.ringsdb.com/bundles/cards/16012.png
+522,The Storm Comes,Player Side Quest,FALSE,Neutral,,0,,,,,,,The Sands of Harad,The Sands of Harad,13,3,,16013,https://www.ringsdb.com/card/16013,https://www.ringsdb.com/bundles/cards/16013.png
+523,Kahliel,Hero,TRUE,Leadership,10,,2,2,2,4,Harad. Noble.,,The Haradrim,The Mûmakil,1,1,,17001,https://www.ringsdb.com/card/17001,https://www.ringsdb.com/bundles/cards/17001.png
+524,Andrath Guardsman,Ally,FALSE,Leadership,,2,1,0,1,2,Dúnedain. Ranger.,,The Haradrim,The Mûmakil,2,3,,17002,https://www.ringsdb.com/card/17002,https://www.ringsdb.com/bundles/cards/17002.png
+525,Prepare for Battle,Player Side Quest,FALSE,Leadership,,1,,,,,,,The Haradrim,The Mûmakil,3,3,,17003,https://www.ringsdb.com/card/17003,https://www.ringsdb.com/bundles/cards/17003.png
+526,Yazan,Ally,TRUE,Tactics,,5,2,3,1,3,Harad. Ranger.,Ranged.,The Haradrim,The Mûmakil,4,3,,17004,https://www.ringsdb.com/card/17004,https://www.ringsdb.com/bundles/cards/17004.png
+527,Wait no Longer,Event,FALSE,Tactics,,2,,,,,,,The Haradrim,The Mûmakil,5,3,,17005,https://www.ringsdb.com/card/17005,https://www.ringsdb.com/bundles/cards/17005.png
+528,Jubayr,Ally,TRUE,Spirit,,5,1,2,3,3,Harad. Warrior,Sentinel.,The Haradrim,The Mûmakil,6,3,,17006,https://www.ringsdb.com/card/17006,https://www.ringsdb.com/bundles/cards/17006.png
+529,Dwarf Pipe,Attachment,FALSE,Spirit,,1,,,,,Item. Pipe.,,The Haradrim,The Mûmakil,7,3,,17007,https://www.ringsdb.com/card/17007,https://www.ringsdb.com/bundles/cards/17007.png
+530,Firyal,Ally,TRUE,Lore,,5,3,1,2,3,Harad. Scout.,,The Haradrim,The Mûmakil,8,3,,17008,https://www.ringsdb.com/card/17008,https://www.ringsdb.com/bundles/cards/17008.png
+531,Coney in a Trap,Event,FALSE,Lore,,1,,,,,,,The Haradrim,The Mûmakil,9,3,,17009,https://www.ringsdb.com/card/17009,https://www.ringsdb.com/bundles/cards/17009.png
+532,Kahliel's Headdress,Attachment,TRUE,Neutral,,3,,,,,Artifact. Item.,Restricted.,The Haradrim,The Mûmakil,10,3,,17010,https://www.ringsdb.com/card/17010,https://www.ringsdb.com/bundles/cards/17010.png
+533,Thurindir,Hero,TRUE,Lore,8,,2,2,0,4,Dúnedain. Ranger.,,The Haradrim,Race Across Harad,28,1,,17028,https://www.ringsdb.com/card/17028,https://www.ringsdb.com/bundles/cards/17028.png
+534,Kahliel's Tribesman,Ally,FALSE,Leadership,,2,1,1,1,2,Harad.,,The Haradrim,Race Across Harad,29,3,,17029,https://www.ringsdb.com/card/17029,https://www.ringsdb.com/bundles/cards/17029.png
+535,Steed of the North,Attachment,FALSE,Leadership,,1,,,,,Mount.,Restricted.,The Haradrim,Race Across Harad,30,3,,17030,https://www.ringsdb.com/card/17030,https://www.ringsdb.com/bundles/cards/17030.png
+536,Mighty Warrior,Attachment,FALSE,Tactics,,1,,,,,Skill.,,The Haradrim,Race Across Harad,31,3,,17031,https://www.ringsdb.com/card/17031,https://www.ringsdb.com/bundles/cards/17031.png
+537,Proud Hunters,Event,FALSE,Tactics,,0,,,,,,,The Haradrim,Race Across Harad,32,3,,17032,https://www.ringsdb.com/card/17032,https://www.ringsdb.com/bundles/cards/17032.png
+538,Dunedain Pathfinder,Ally,FALSE,Spirit,,0,2,1,0,2,Dúnedain. Scout.,,The Haradrim,Race Across Harad,33,3,,17033,https://www.ringsdb.com/card/17033,https://www.ringsdb.com/bundles/cards/17033.png
+539,Backtrack,Event,FALSE,Spirit,,1,,,,,,,The Haradrim,Race Across Harad,34,3,,17034,https://www.ringsdb.com/card/17034,https://www.ringsdb.com/bundles/cards/17034.png
+540,Eryn Galen Settler,Ally,FALSE,Lore,,2,1,2,0,2,Woodman.,,The Haradrim,Race Across Harad,35,3,,17035,https://www.ringsdb.com/card/17035,https://www.ringsdb.com/bundles/cards/17035.png
+541,Explore Secret Ways,Player Side Quest,FALSE,Lore,,1,,,,,,,The Haradrim,Race Across Harad,36,3,,17036,https://www.ringsdb.com/card/17036,https://www.ringsdb.com/bundles/cards/17036.png
+542,Steward of Orthanc,Ally,FALSE,Neutral,,3,2,0,0,2,Isengard.,Doomed.,The Haradrim,Race Across Harad,37,3,,17037,https://www.ringsdb.com/card/17037,https://www.ringsdb.com/bundles/cards/17037.png
+543,Hirgon,Hero,TRUE,Tactics,9,,2,2,1,4,Gondor. Scout.,,The Haradrim,Beneath the Sands,55,1,,17055,https://www.ringsdb.com/card/17055,https://www.ringsdb.com/bundles/cards/17055.png
+544,Haradrim Spear,Attachment,FALSE,Leadership,,2,,,,,Item. Weapon.,Restricted.,The Haradrim,Beneath the Sands,56,3,,17056,https://www.ringsdb.com/card/17056,https://www.ringsdb.com/bundles/cards/17056.png
+545,Hunting Party,Event,FALSE,Leadership,,1,,,,,,,The Haradrim,Beneath the Sands,57,3,,17057,https://www.ringsdb.com/card/17057,https://www.ringsdb.com/bundles/cards/17057.png
+546,The Red Arrow,Attachment,TRUE,Tactics,,1,,,,,Artifact. Item.,Valour.,The Haradrim,Beneath the Sands,58,3,,17058,https://www.ringsdb.com/card/17058,https://www.ringsdb.com/bundles/cards/17058.png
+547,Keep Watch,Player Side Quest,FALSE,Tactics,,1,,,,,,,The Haradrim,Beneath the Sands,59,3,,17059,https://www.ringsdb.com/card/17059,https://www.ringsdb.com/bundles/cards/17059.png
+548,Rider of Rohan,Ally,FALSE,Spirit,,3,2,2,0,2,Rohan. Scout.,,The Haradrim,Beneath the Sands,60,3,,17060,https://www.ringsdb.com/card/17060,https://www.ringsdb.com/bundles/cards/17060.png
+549,Fireside Song,Attachment,FALSE,Spirit,,2,,,,,Song.,,The Haradrim,Beneath the Sands,61,3,,17061,https://www.ringsdb.com/card/17061,https://www.ringsdb.com/bundles/cards/17061.png
+550,Dunedain Lookout,Ally,FALSE,Lore,,2,1,1,1,2,Dúnedain.,,The Haradrim,Beneath the Sands,62,3,,17062,https://www.ringsdb.com/card/17062,https://www.ringsdb.com/bundles/cards/17062.png
+551,Doughty Ranger,Attachment,FALSE,Lore,,1,,,,,Skill.,,The Haradrim,Beneath the Sands,63,3,,17063,https://www.ringsdb.com/card/17063,https://www.ringsdb.com/bundles/cards/17063.png
+552,The Free Peoples,Event,FALSE,Neutral,,5,,,,,,,The Haradrim,Beneath the Sands,64,3,,17064,https://www.ringsdb.com/card/17064,https://www.ringsdb.com/bundles/cards/17064.png
+553,Fastred,Hero,TRUE,Spirit,9,,1,2,3,3,Rohan. Warrior.,,The Haradrim,The Black Serpent,81,1,,17081,https://www.ringsdb.com/card/17081,https://www.ringsdb.com/bundles/cards/17081.png
+554,Song of Hope,Attachment,FALSE,Leadership,,0,,,,,Song.,,The Haradrim,The Black Serpent,82,3,,17082,https://www.ringsdb.com/card/17082,https://www.ringsdb.com/bundles/cards/17082.png
+555,Burst into Song,Event,FALSE,Leadership,,2,,,,,,,The Haradrim,The Black Serpent,83,3,,17083,https://www.ringsdb.com/card/17083,https://www.ringsdb.com/bundles/cards/17083.png
+556,Defender of Cair Andros,Ally,FALSE,Tactics,,4,1,1,0,3,Gondor. Warrior.,Valour.,The Haradrim,The Black Serpent,84,3,,17084,https://www.ringsdb.com/card/17084,https://www.ringsdb.com/bundles/cards/17084.png
+557,Oath of Eorl,Event,FALSE,Tactics,,3,,,,,,,The Haradrim,The Black Serpent,85,3,,17085,https://www.ringsdb.com/card/17085,https://www.ringsdb.com/bundles/cards/17085.png
+558,Fearless Scout,Attachment,FALSE,Spirit,,1,,,,,Skill.,,The Haradrim,The Black Serpent,86,3,,17086,https://www.ringsdb.com/card/17086,https://www.ringsdb.com/bundles/cards/17086.png
+559,Rally the West,Player Side Quest,FALSE,Spirit,,1,,,,,,,The Haradrim,The Black Serpent,87,3,,17087,https://www.ringsdb.com/card/17087,https://www.ringsdb.com/bundles/cards/17087.png
+560,Dúnedain Pipe,Attachment,FALSE,Lore,,1,,,,,Item. Pipe.,,The Haradrim,The Black Serpent,88,3,,17088,https://www.ringsdb.com/card/17088,https://www.ringsdb.com/bundles/cards/17088.png
+561,Old Toby,Event,FALSE,Lore,,2,,,,,Pipeweed.,,The Haradrim,The Black Serpent,89,3,,17089,https://www.ringsdb.com/card/17089,https://www.ringsdb.com/bundles/cards/17089.png
+562,Southron Refugee,Ally,FALSE,Neutral,,2,1,1,0,2,Harad.,,The Haradrim,The Black Serpent,90,3,,17090,https://www.ringsdb.com/card/17090,https://www.ringsdb.com/bundles/cards/17090.png
+563,Folco Boffin,Hero,TRUE,Lore,7,,2,2,0,2,Hobbit.,,The Haradrim,The Dungeons of Cirith Gurat,109,1,,17109,https://www.ringsdb.com/card/17109,https://www.ringsdb.com/bundles/cards/17109.png
+564,Knight of Dale,Ally,FALSE,Leadership,,4,2,2,1,3,Dale. Warrior.,Valour.,The Haradrim,The Dungeons of Cirith Gurat,110,3,,17110,https://www.ringsdb.com/card/17110,https://www.ringsdb.com/bundles/cards/17110.png
+565,Diligent Noble,Attachment,FALSE,Leadership,,1,,,,,Skill.,,The Haradrim,The Dungeons of Cirith Gurat,111,3,,17111,https://www.ringsdb.com/card/17111,https://www.ringsdb.com/bundles/cards/17111.png
+566,Riddermark Knight,Ally,FALSE,Tactics,,2,0,2,0,2,Rohan. Warrior.,,The Haradrim,The Dungeons of Cirith Gurat,112,3,,17112,https://www.ringsdb.com/card/17112,https://www.ringsdb.com/bundles/cards/17112.png
+567,Fierce Defense,Event,FALSE,Tactics,,3,,,,,,Valour.,The Haradrim,The Dungeons of Cirith Gurat,113,3,,17113,https://www.ringsdb.com/card/17113,https://www.ringsdb.com/bundles/cards/17113.png
+568,Eregion Survivor,Ally,FALSE,Spirit,,2,1,1,1,3,Noldor.,,The Haradrim,The Dungeons of Cirith Gurat,114,3,,17114,https://www.ringsdb.com/card/17114,https://www.ringsdb.com/bundles/cards/17114.png
+569,Heirs of Earendil,Event,FALSE,Spirit,,1,,,,,,,The Haradrim,The Dungeons of Cirith Gurat,115,3,,17115,https://www.ringsdb.com/card/17115,https://www.ringsdb.com/bundles/cards/17115.png
+570,Leaflock,Ally,TRUE,Lore,,3,0,2,2,3,Ent.,,The Haradrim,The Dungeons of Cirith Gurat,116,3,,17116,https://www.ringsdb.com/card/17116,https://www.ringsdb.com/bundles/cards/17116.png
+571,Legacy Blade,Attachment,FALSE,Lore,,0,,,,,Item. Weapon.,Restricted.,The Haradrim,The Dungeons of Cirith Gurat,117,3,,17117,https://www.ringsdb.com/card/17117,https://www.ringsdb.com/bundles/cards/17117.png
+572,Open the Armory,Event,FALSE,Neutral,,1,,,,,,Valour.,The Haradrim,The Dungeons of Cirith Gurat,118,3,,17118,https://www.ringsdb.com/card/17118,https://www.ringsdb.com/bundles/cards/17118.png
+573,Quickbeam,Hero,TRUE,Tactics,12,,2,4,1,5,Ent.,,The Haradrim,The Crossings of Poros,135,1,,17135,https://www.ringsdb.com/card/17135,https://www.ringsdb.com/bundles/cards/17135.png
+574,Halfast Gamgee,Ally,TRUE,Leadership,,3,2,1,0,2,Hobbit.,,The Haradrim,The Crossings of Poros,136,3,,17136,https://www.ringsdb.com/card/17136,https://www.ringsdb.com/bundles/cards/17136.png
+575,Bulwark of the West,Event,FALSE,Leadership,,0,,,,,,,The Haradrim,The Crossings of Poros,137,3,,17137,https://www.ringsdb.com/card/17137,https://www.ringsdb.com/bundles/cards/17137.png
+576,Beorning Guardian,Ally,FALSE,Tactics,,3,0,3,1,3,Beorning.,,The Haradrim,The Crossings of Poros,138,3,,17138,https://www.ringsdb.com/card/17138,https://www.ringsdb.com/bundles/cards/17138.png
+577,Followed,Attachment,FALSE,Tactics,,1,,,,,Condition. Trap.,,The Haradrim,The Crossings of Poros,139,3,,17139,https://www.ringsdb.com/card/17139,https://www.ringsdb.com/bundles/cards/17139.png
+578,Flight to the Sea,Event,FALSE,Spirit,,2,,,,,,,The Haradrim,The Crossings of Poros,140,3,,17140,https://www.ringsdb.com/card/17140,https://www.ringsdb.com/bundles/cards/17140.png
+579,Emyn Arnen Ranger,Ally,FALSE,Lore,,2,0,1,1,2,Gondor. Ranger.,,The Haradrim,The Crossings of Poros,141,3,,17141,https://www.ringsdb.com/card/17141,https://www.ringsdb.com/bundles/cards/17141.png
+580,The Dam Bursts,Event,FALSE,Lore,,2,,,,,,,The Haradrim,The Crossings of Poros,142,3,,17142,https://www.ringsdb.com/card/17142,https://www.ringsdb.com/bundles/cards/17142.png
+581,Magic Ring,Attachment,FALSE,Neutral,,2,,,,,Artifact. Item. Ring.,,The Haradrim,The Crossings of Poros,143,3,,17143,https://www.ringsdb.com/card/17143,https://www.ringsdb.com/bundles/cards/17143.png
+582,Wind from the Sea,Event,FALSE,Neutral,,-,,,,,,,The Haradrim,The Crossings of Poros,144,3,,17144,https://www.ringsdb.com/card/17144,https://www.ringsdb.com/bundles/cards/17144.png
+583,Thorin Oakenshield,Hero,TRUE,Leadership,12,,3,3,1,5,Dwarf. Noble. Warrior.,,The Hobbit,Over Hill and Under Hill,2,1,,131002,https://www.ringsdb.com/card/131002,https://www.ringsdb.com/bundles/cards/131002.png
+584,Nori,Hero,TRUE,Spirit,9,,2,1,2,4,Dwarf.,,The Hobbit,Over Hill and Under Hill,3,1,,131003,https://www.ringsdb.com/card/131003,https://www.ringsdb.com/bundles/cards/131003.png
+585,Ori,Hero,TRUE,Lore,8,,2,2,1,3,Dwarf.,,The Hobbit,Over Hill and Under Hill,4,1,,131004,https://www.ringsdb.com/card/131004,https://www.ringsdb.com/bundles/cards/131004.png
+586,Beorn,Hero,TRUE,Tactics,12,,0,5,1,10,Beorning. Warrior.,Sentinel.,The Hobbit,Over Hill and Under Hill,5,1,,131005,https://www.ringsdb.com/card/131005,https://www.ringsdb.com/bundles/cards/131005.png
+587,Fili,Ally,TRUE,Leadership,,3,1,1,1,2,Dwarf.,,The Hobbit,Over Hill and Under Hill,6,3,,131006,https://www.ringsdb.com/card/131006,https://www.ringsdb.com/bundles/cards/131006.png
+588,Kili,Ally,TRUE,Spirit,,3,1,1,1,2,Dwarf.,,The Hobbit,Over Hill and Under Hill,7,3,,131007,https://www.ringsdb.com/card/131007,https://www.ringsdb.com/bundles/cards/131007.png
+589,Bofur,Ally,TRUE,Tactics,,3,2,2,0,3,Dwarf.,,The Hobbit,Over Hill and Under Hill,8,3,,131008,https://www.ringsdb.com/card/131008,https://www.ringsdb.com/bundles/cards/131008.png
+590,Dori,Ally,TRUE,Lore,,3,1,2,1,3,Dwarf.,,The Hobbit,Over Hill and Under Hill,9,3,,131009,https://www.ringsdb.com/card/131009,https://www.ringsdb.com/bundles/cards/131009.png
+591,Gandalf,Ally,TRUE,Neutral,,5,4,4,4,4,Istari.,,The Hobbit,Over Hill and Under Hill,10,3,,131010,https://www.ringsdb.com/card/131010,https://www.ringsdb.com/bundles/cards/131010.png
+592,Cram,Attachment,FALSE,Leadership,,0,,,,,Item.,,The Hobbit,Over Hill and Under Hill,11,3,,131011,https://www.ringsdb.com/card/131011,https://www.ringsdb.com/bundles/cards/131011.png
+593,Spare Hood and Cloak,Attachment,FALSE,Spirit,,0,,,,,Item.,,The Hobbit,Over Hill and Under Hill,12,3,,131012,https://www.ringsdb.com/card/131012,https://www.ringsdb.com/bundles/cards/131012.png
+594,Thrór's Map,Attachment,TRUE,Lore,,1,,,,,Artifact. Item.,,The Hobbit,Over Hill and Under Hill,13,3,,131013,https://www.ringsdb.com/card/131013,https://www.ringsdb.com/bundles/cards/131013.png
+595,A Very Good Tale,Event,FALSE,Leadership,,0,,,,,,,The Hobbit,Over Hill and Under Hill,14,3,,131014,https://www.ringsdb.com/card/131014,https://www.ringsdb.com/bundles/cards/131014.png
+596,Foe-hammer,Event,FALSE,Tactics,,0,,,,,,,The Hobbit,Over Hill and Under Hill,15,3,,131015,https://www.ringsdb.com/card/131015,https://www.ringsdb.com/bundles/cards/131015.png
+597,Goblin-cleaver,Event,FALSE,Tactics,,0,,,,,,,The Hobbit,Over Hill and Under Hill,16,3,,131016,https://www.ringsdb.com/card/131016,https://www.ringsdb.com/bundles/cards/131016.png
+598,Late Adventurer,Event,FALSE,Spirit,,0,,,,,,,The Hobbit,Over Hill and Under Hill,17,3,,131017,https://www.ringsdb.com/card/131017,https://www.ringsdb.com/bundles/cards/131017.png
+599,Expecting Mischief,Event,FALSE,Lore,,1,,,,,,,The Hobbit,Over Hill and Under Hill,18,3,,131018,https://www.ringsdb.com/card/131018,https://www.ringsdb.com/bundles/cards/131018.png
+600,Balin,Hero,TRUE,Leadership,9,,2,1,2,4,Dwarf.,,The Hobbit,On the Doorstep,2,1,,132002,https://www.ringsdb.com/card/132002,https://www.ringsdb.com/bundles/cards/132002.png
+601,Bard the Bowman,Hero,TRUE,Tactics,11,,2,3,2,4,Esgaroth. Warrior.,Ranged.,The Hobbit,On the Doorstep,3,1,,132003,https://www.ringsdb.com/card/132003,https://www.ringsdb.com/bundles/cards/132003.png
+602,Óin,Hero,TRUE,Spirit,8,,2,1,1,4,Dwarf.,,The Hobbit,On the Doorstep,4,1,,132004,https://www.ringsdb.com/card/132004,https://www.ringsdb.com/bundles/cards/132004.png
+603,Bombur,Hero,TRUE,Lore,8,,0,1,2,5,Dwarf.,,The Hobbit,On the Doorstep,5,1,,132005,https://www.ringsdb.com/card/132005,https://www.ringsdb.com/bundles/cards/132005.png
+604,Glóin,Ally,TRUE,Leadership,,3,2,1,1,3,Dwarf.,,The Hobbit,On the Doorstep,6,3,,132006,https://www.ringsdb.com/card/132006,https://www.ringsdb.com/bundles/cards/132006.png
+605,Bifur,Ally,TRUE,Lore,,3,1,2,1,3,Dwarf.,,The Hobbit,On the Doorstep,7,3,,132007,https://www.ringsdb.com/card/132007,https://www.ringsdb.com/bundles/cards/132007.png
+606,Dwalin,Ally,TRUE,Spirit,,3,1,1,2,3,Dwarf.,Sentinel.,The Hobbit,On the Doorstep,8,3,,132008,https://www.ringsdb.com/card/132008,https://www.ringsdb.com/bundles/cards/132008.png
+607,Straight Shot,Event,FALSE,Tactics,,0,,,,,,,The Hobbit,On the Doorstep,9,3,,132009,https://www.ringsdb.com/card/132009,https://www.ringsdb.com/bundles/cards/132009.png
+608,Desperate Alliance,Event,FALSE,Spirit,,0,,,,,,,The Hobbit,On the Doorstep,10,3,,132010,https://www.ringsdb.com/card/132010,https://www.ringsdb.com/bundles/cards/132010.png
+609,Ravens of the Mountain,Event,FALSE,Lore,,1,,,,,,,The Hobbit,On the Doorstep,11,3,,132011,https://www.ringsdb.com/card/132011,https://www.ringsdb.com/bundles/cards/132011.png
+610,To me! O my kinsfolk!,Event,FALSE,Leadership,,1,,,,,,,The Hobbit,On the Doorstep,12,3,,132012,https://www.ringsdb.com/card/132012,https://www.ringsdb.com/bundles/cards/132012.png
+611,Great Yew Bow,Attachment,FALSE,Tactics,,2,,,,,Item. Weapon.,Ranged. Restricted.,The Hobbit,On the Doorstep,14,3,,132014,https://www.ringsdb.com/card/132014,https://www.ringsdb.com/bundles/cards/132014.png
+612,Black Arrow,Attachment,TRUE,Tactics,,0,,,,,Artifact. Item.,Ranged.,The Hobbit,On the Doorstep,15,3,,132015,https://www.ringsdb.com/card/132015,https://www.ringsdb.com/bundles/cards/132015.png
+613,Thrór's Key,Attachment,TRUE,Spirit,,1,,,,,Artifact. Item.,Ranged.,The Hobbit,On the Doorstep,16,3,,132016,https://www.ringsdb.com/card/132016,https://www.ringsdb.com/bundles/cards/132016.png
+614,Expert Treasure-hunter,Attachment,FALSE,Lore,,0,,,,,Skill.,,The Hobbit,On the Doorstep,17,3,,132017,https://www.ringsdb.com/card/132017,https://www.ringsdb.com/bundles/cards/132017.png
+615,King Under the Mountain,Attachment,TRUE,Leadership,,2,,,,,Title.,,The Hobbit,On the Doorstep,18,3,,132018,https://www.ringsdb.com/card/132018,https://www.ringsdb.com/bundles/cards/132018.png
+616,Sam Gamgee,Hero,TRUE,Leadership,8,,3,1,1,3,Hobbit.,,The Lord of the Rings,The Black Riders,2,1,,141002,https://www.ringsdb.com/card/141002,https://www.ringsdb.com/bundles/cards/141002.png
+617,Merry,Hero,TRUE,Tactics,6,,2,0,1,2,Hobbit.,,The Lord of the Rings,The Black Riders,3,1,,141003,https://www.ringsdb.com/card/141003,https://www.ringsdb.com/bundles/cards/141003.png
+618,Pippin,Hero,TRUE,Lore,6,,2,1,1,2,Hobbit.,,The Lord of the Rings,The Black Riders,4,1,,141004,https://www.ringsdb.com/card/141004,https://www.ringsdb.com/bundles/cards/141004.png
+619,Fatty Bolger,Hero,TRUE,Spirit,7,,1,1,2,3,Hobbit.,,The Lord of the Rings,The Black Riders,5,1,,141005,https://www.ringsdb.com/card/141005,https://www.ringsdb.com/bundles/cards/141005.png
+620,Bill the Pony,Ally,TRUE,Leadership,,2,1,1,0,2,Creature. Pony.,,The Lord of the Rings,The Black Riders,6,3,,141006,https://www.ringsdb.com/card/141006,https://www.ringsdb.com/bundles/cards/141006.png
+621,Barliman Butterbur,Ally,TRUE,Lore,,2,1,0,1,3,Bree.,,The Lord of the Rings,The Black Riders,7,3,,141007,https://www.ringsdb.com/card/141007,https://www.ringsdb.com/bundles/cards/141007.png
+622,Farmer Maggot,Ally,TRUE,Tactics,,3,1,2,0,2,Hobbit.,,The Lord of the Rings,The Black Riders,8,3,,141008,https://www.ringsdb.com/card/141008,https://www.ringsdb.com/bundles/cards/141008.png
+623,Halfling Determination,Event,FALSE,Tactics,,1,,,,,,,The Lord of the Rings,The Black Riders,9,3,,141009,https://www.ringsdb.com/card/141009,https://www.ringsdb.com/bundles/cards/141009.png
+624,Smoke Rings,Event,FALSE,Spirit,,2,,,,,,,The Lord of the Rings,The Black Riders,10,3,,141010,https://www.ringsdb.com/card/141010,https://www.ringsdb.com/bundles/cards/141010.png
+625,Take No Notice,Event,FALSE,Lore,,3,,,,,,,The Lord of the Rings,The Black Riders,11,3,,141011,https://www.ringsdb.com/card/141011,https://www.ringsdb.com/bundles/cards/141011.png
+626,Hobbit Cloak,Attachment,FALSE,Leadership,,1,,,,,Item.,,The Lord of the Rings,The Black Riders,13,3,,141013,https://www.ringsdb.com/card/141013,https://www.ringsdb.com/bundles/cards/141013.png
+627,Dagger of Westernesse,Attachment,FALSE,Tactics,,1,,,,,Artifact. Item. Weapon.,Restricted.,The Lord of the Rings,The Black Riders,14,3,,141014,https://www.ringsdb.com/card/141014,https://www.ringsdb.com/bundles/cards/141014.png
+628,Hobbit Pipe,Attachment,FALSE,Spirit,,0,,,,,Item. Pipe.,,The Lord of the Rings,The Black Riders,15,3,,141015,https://www.ringsdb.com/card/141015,https://www.ringsdb.com/bundles/cards/141015.png
+629,Elf-stone,Attachment,TRUE,Lore,,1,,,,,Artifact. Item.,,The Lord of the Rings,The Black Riders,16,3,,141016,https://www.ringsdb.com/card/141016,https://www.ringsdb.com/bundles/cards/141016.png
+630,Gandalf,Hero,TRUE,Neutral,14,,3,3,3,5,Istari.,,The Lord of the Rings,The Road Darkens,2,1,,142002,https://www.ringsdb.com/card/142002,https://www.ringsdb.com/bundles/cards/142002.png
+631,Galadriel,Ally,TRUE,Leadership,,3,3,0,0,3,Noldor. Noble.,,The Lord of the Rings,The Road Darkens,3,3,,142003,https://www.ringsdb.com/card/142003,https://www.ringsdb.com/bundles/cards/142003.png
+632,Boromir,Ally,TRUE,Tactics,,4,1,3,1,4,Gondor. Warrior.,,The Lord of the Rings,The Road Darkens,4,3,,142004,https://www.ringsdb.com/card/142004,https://www.ringsdb.com/bundles/cards/142004.png
+633,Elrond,Ally,TRUE,Lore,,3,3,2,3,3,Noldor. Healer.,,The Lord of the Rings,The Road Darkens,5,3,,142005,https://www.ringsdb.com/card/142005,https://www.ringsdb.com/bundles/cards/142005.png
+634,Bilbo Baggins,Ally,TRUE,Spirit,,2,2,0,0,2,Hobbit.,,The Lord of the Rings,The Road Darkens,6,3,,142006,https://www.ringsdb.com/card/142006,https://www.ringsdb.com/bundles/cards/142006.png
+635,Flame of Anor,Event,FALSE,Neutral,,1,,,,,Spell.,,The Lord of the Rings,The Road Darkens,7,3,,142007,https://www.ringsdb.com/card/142007,https://www.ringsdb.com/bundles/cards/142007.png
+636,Gandalf's Staff,Attachment,TRUE,Neutral,,2,,,,,Artifact. Item. Staff.,Restricted.,The Lord of the Rings,The Road Darkens,8,3,,142008,https://www.ringsdb.com/card/142008,https://www.ringsdb.com/bundles/cards/142008.png
+637,Wizard Pipe,Attachment,FALSE,Neutral,,1,,,,,Item. Pipe.,,The Lord of the Rings,The Road Darkens,9,3,,142009,https://www.ringsdb.com/card/142009,https://www.ringsdb.com/bundles/cards/142009.png
+638,Théoden,Hero,TRUE,Spirit,12,,2,3,2,4,Rohan. Noble. Warrior.,Sentinel.,The Lord of the Rings,The Treason of Saruman,2,1,,143002,https://www.ringsdb.com/card/143002,https://www.ringsdb.com/bundles/cards/143002.png
+639,Treebeard,Hero,TRUE,Lore,13,,2,3,3,5,Ent.,,The Lord of the Rings,The Treason of Saruman,3,1,,143003,https://www.ringsdb.com/card/143003,https://www.ringsdb.com/bundles/cards/143003.png
+640,Gimli,Ally,TRUE,Leadership,,4,2,2,2,3,Dwarf. Warrior.,Sentinel.,The Lord of the Rings,The Treason of Saruman,4,3,,143004,https://www.ringsdb.com/card/143004,https://www.ringsdb.com/bundles/cards/143004.png
+641,Legolas,Ally,TRUE,Tactics,,4,1,3,1,3,Silvan. Warrior.,Ranged.,The Lord of the Rings,The Treason of Saruman,5,3,,143005,https://www.ringsdb.com/card/143005,https://www.ringsdb.com/bundles/cards/143005.png
+642,Quickbeam,Ally,TRUE,Lore,,2,2,3,1,3,Ent.,,The Lord of the Rings,The Treason of Saruman,6,3,,143006,https://www.ringsdb.com/card/143006,https://www.ringsdb.com/bundles/cards/143006.png
+643,Háma,Ally,TRUE,Spirit,,3,1,2,2,2,Rohan. Warrior.,,The Lord of the Rings,The Treason of Saruman,7,3,,143007,https://www.ringsdb.com/card/143007,https://www.ringsdb.com/bundles/cards/143007.png
+644,Arod,Attachment,TRUE,Tactics,,1,,,,,Mount.,,The Lord of the Rings,The Treason of Saruman,8,3,,143008,https://www.ringsdb.com/card/143008,https://www.ringsdb.com/bundles/cards/143008.png
+645,Ent Draught,Attachment,FALSE,Lore,,1,,,,,Item. Ent.,,The Lord of the Rings,The Treason of Saruman,9,3,,143009,https://www.ringsdb.com/card/143009,https://www.ringsdb.com/bundles/cards/143009.png
+646,Herugrim,Attachment,TRUE,Spirit,,3,,,,,Item. Weapon.,Restricted.,The Lord of the Rings,The Treason of Saruman,10,3,,143010,https://www.ringsdb.com/card/143010,https://www.ringsdb.com/bundles/cards/143010.png
+647,Entmoot,Event,FALSE,Lore,,0,,,,,Ent.,,The Lord of the Rings,The Treason of Saruman,11,3,,143011,https://www.ringsdb.com/card/143011,https://www.ringsdb.com/bundles/cards/143011.png
+648,Helm! Helm!,Event,FALSE,Spirit,,2,,,,,,,The Lord of the Rings,The Treason of Saruman,12,3,,143012,https://www.ringsdb.com/card/143012,https://www.ringsdb.com/bundles/cards/143012.png
+649,Shadowfax,Attachment,TRUE,Neutral,,3,,,,,Mount. Mearas.,Ranged. Sentinel.,The Lord of the Rings,The Treason of Saruman,14,3,,143014,https://www.ringsdb.com/card/143014,https://www.ringsdb.com/bundles/cards/143014.png
+650,Faramir,Hero,TRUE,Leadership,11,,2,2,2,5,Gondor. Noble. Ranger.,Ranged.,The Lord of the Rings,The Land of Shadow,2,1,,144002,https://www.ringsdb.com/card/144002,https://www.ringsdb.com/bundles/cards/144002.png
+651,Damrod,Hero,TRUE,Lore,9,,2,2,1,4,Gondor. Ranger.,,The Lord of the Rings,The Land of Shadow,3,1,,144003,https://www.ringsdb.com/card/144003,https://www.ringsdb.com/bundles/cards/144003.png
+652,Anborn,Ally,TRUE,Leadership,,4,1,3,1,3,Gondor. Ranger.,,The Lord of the Rings,The Land of Shadow,4,3,,144004,https://www.ringsdb.com/card/144004,https://www.ringsdb.com/bundles/cards/144004.png
+653,Mablung,Ally,TRUE,Lore,,2,2,1,0,2,Gondor. Ranger.,,The Lord of the Rings,The Land of Shadow,5,3,,144005,https://www.ringsdb.com/card/144005,https://www.ringsdb.com/bundles/cards/144005.png
+654,Skinbark,Ally,TRUE,Tactics,,3,0,4,2,3,Ent.,,The Lord of the Rings,The Land of Shadow,6,3,,144006,https://www.ringsdb.com/card/144006,https://www.ringsdb.com/bundles/cards/144006.png
+655,Gamling,Ally,TRUE,Spirit,,3,1,1,2,2,Rohan. Warrior.,,The Lord of the Rings,The Land of Shadow,7,3,,144007,https://www.ringsdb.com/card/144007,https://www.ringsdb.com/bundles/cards/144007.png
+656,Staff of Lebethron,Attachment,FALSE,Leadership,,1,,,,,Item.,Restricted.,The Lord of the Rings,The Land of Shadow,8,3,,144008,https://www.ringsdb.com/card/144008,https://www.ringsdb.com/bundles/cards/144008.png
+657,Ambush,Attachment,FALSE,Lore,,2,,,,,Condition. Trap.,,The Lord of the Rings,The Land of Shadow,9,3,,144009,https://www.ringsdb.com/card/144009,https://www.ringsdb.com/bundles/cards/144009.png
+658,Snowmane,Attachment,TRUE,Spirit,,1,,,,,Mount.,Restricted.,The Lord of the Rings,The Land of Shadow,10,3,,144010,https://www.ringsdb.com/card/144010,https://www.ringsdb.com/bundles/cards/144010.png
+659,Taste it Again!,Event,FALSE,Leadership,,1,,,,,,,The Lord of the Rings,The Land of Shadow,11,3,,144011,https://www.ringsdb.com/card/144011,https://www.ringsdb.com/bundles/cards/144011.png
+660,In the Shadows,Event,FALSE,Lore,,3,,,,,,,The Lord of the Rings,The Land of Shadow,12,3,,144012,https://www.ringsdb.com/card/144012,https://www.ringsdb.com/bundles/cards/144012.png
+661,Éowyn,Hero,TRUE,Tactics,9,,4,1,1,3,Rohan. Noble.,,The Lord of the Rings,The Flame of the West,2,1,,145002,https://www.ringsdb.com/card/145002,https://www.ringsdb.com/bundles/cards/145002.png
+662,Beregond,Hero,TRUE,Spirit,10,,0,1,4,4,Gondor. Warrior.,Sentinel.,The Lord of the Rings,The Flame of the West,3,1,,145003,https://www.ringsdb.com/card/145003,https://www.ringsdb.com/bundles/cards/145003.png
+663,Grimbold,Ally,TRUE,Tactics,,3,2,1,1,2,Rohan. Warrior.,,The Lord of the Rings,The Flame of the West,4,3,,145004,https://www.ringsdb.com/card/145004,https://www.ringsdb.com/bundles/cards/145004.png
+664,Prince Imrahil,Ally,TRUE,Spirit,,4,2,2,2,3,Gondor. Noble.,,The Lord of the Rings,The Flame of the West,5,3,,145005,https://www.ringsdb.com/card/145005,https://www.ringsdb.com/bundles/cards/145005.png
+665,Halbarad,Ally,TRUE,Leadership,,4,2,2,2,3,Dúnedain. Ranger.,,The Lord of the Rings,The Flame of the West,6,3,,145006,https://www.ringsdb.com/card/145006,https://www.ringsdb.com/bundles/cards/145006.png
+666,Ghân-buri-Ghân,Ally,TRUE,Lore,,2,X,1,1,2,Wose.,,The Lord of the Rings,The Flame of the West,7,3,,145007,https://www.ringsdb.com/card/145007,https://www.ringsdb.com/bundles/cards/145007.png
+667,Sterner than Steel,Event,FALSE,Tactics,,0,,,,,,,The Lord of the Rings,The Flame of the West,8,3,,145008,https://www.ringsdb.com/card/145008,https://www.ringsdb.com/bundles/cards/145008.png
+668,Desperate Defense,Event,FALSE,Spirit,,1,,,,,,Sentinel.,The Lord of the Rings,The Flame of the West,9,3,,145009,https://www.ringsdb.com/card/145009,https://www.ringsdb.com/bundles/cards/145009.png
+669,Golden Shield,Attachment,TRUE,Tactics,,1,,,,,Item. Armor.,Restricted.,The Lord of the Rings,The Flame of the West,10,3,,145010,https://www.ringsdb.com/card/145010,https://www.ringsdb.com/bundles/cards/145010.png
+670,Livery of the Tower,Attachment,FALSE,Spirit,,0,,,,,Item. Armor.,Restricted.,The Lord of the Rings,The Flame of the West,11,3,,145011,https://www.ringsdb.com/card/145011,https://www.ringsdb.com/bundles/cards/145011.png
+671,Roheryn,Attachment,TRUE,Leadership,,2,,,,,Mount.,,The Lord of the Rings,The Flame of the West,12,3,,145012,https://www.ringsdb.com/card/145012,https://www.ringsdb.com/bundles/cards/145012.png
+672,Éomer,Hero,TRUE,Leadership,10,,1,3,2,4,Rohan. Noble. Warrior.,,The Lord of the Rings,The Mountain of Fire,3,1,,146003,https://www.ringsdb.com/card/146003,https://www.ringsdb.com/bundles/cards/146003.png
+673,Tom Cotton,Hero,TRUE,Tactics,8,,1,1,3,3,Hobbit.,,The Lord of the Rings,The Mountain of Fire,4,1,,146004,https://www.ringsdb.com/card/146004,https://www.ringsdb.com/bundles/cards/146004.png
+674,Rosie Cotton,Ally,TRUE,Leadership,,2,2,0,0,2,Hobbit.,,The Lord of the Rings,The Mountain of Fire,5,3,,146005,https://www.ringsdb.com/card/146005,https://www.ringsdb.com/bundles/cards/146005.png
+675,Elfhelm,Ally,TRUE,Tactics,,4,1,2,2,3,Rohan. Warrior.,,The Lord of the Rings,The Mountain of Fire,6,3,,146006,https://www.ringsdb.com/card/146006,https://www.ringsdb.com/bundles/cards/146006.png
+676,Elladan,Ally,TRUE,Lore,,3,2,1,1,3,Noldor. Ranger.,,The Lord of the Rings,The Mountain of Fire,7,3,,146007,https://www.ringsdb.com/card/146007,https://www.ringsdb.com/bundles/cards/146007.png
+677,Elrohir,Ally,TRUE,Spirit,,3,2,1,1,3,Noldor. Ranger.,,The Lord of the Rings,The Mountain of Fire,8,3,,146008,https://www.ringsdb.com/card/146008,https://www.ringsdb.com/bundles/cards/146008.png
+678,Captains of the West,Event,FALSE,Leadership,,3,,,,,,,The Lord of the Rings,The Mountain of Fire,9,3,,146010,https://www.ringsdb.com/card/146010,https://www.ringsdb.com/bundles/cards/146010.png
+679,Raise the Shire,Event,FALSE,Tactics,,1,,,,,,,The Lord of the Rings,The Mountain of Fire,10,3,,146013,https://www.ringsdb.com/card/146013,https://www.ringsdb.com/bundles/cards/146013.png
+680,Gúthwinë,Attachment,TRUE,Leadership,,2,,,,,Item. Weapon.,Restricted.,The Lord of the Rings,The Mountain of Fire,11,3,,146011,https://www.ringsdb.com/card/146011,https://www.ringsdb.com/bundles/cards/146011.png
+681,Friend of Friends,Attachment,FALSE,Neutral,,1,,,,,Condition.,,The Lord of the Rings,The Mountain of Fire,12,3,,146012,https://www.ringsdb.com/card/146012,https://www.ringsdb.com/bundles/cards/146012.png
